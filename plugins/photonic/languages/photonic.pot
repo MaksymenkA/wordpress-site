@@ -1,0 +1,2862 @@
+# Copyright (C) 2020 Sayontan Sinha
+# This file is distributed under the GNU General Public License (GPL), v3 (or newer).
+msgid ""
+msgstr ""
+"Project-Id-Version: Photonic Gallery & Lightbox for Flickr, SmugMug, Google "
+"Photos & Others 2.44\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/photonic\n"
+"POT-Creation-Date: 2020-05-20 00:31:40+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2020-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"X-Generator: grunt-wp-i18n 1.0.3\n"
+
+#: Add_Ons/WP/Widget.php:10
+msgid "A widget for displaying a Photonic Gallery."
+msgstr ""
+
+#: Add_Ons/WP/Widget.php:14
+msgid "Click on the icon to start creating a new gallery."
+msgstr ""
+
+#: Add_Ons/WP/Widget.php:15
+msgid ""
+"The current saved data does not correspond to a Photonic gallery. A new one "
+"will be created."
+msgstr ""
+
+#: Add_Ons/WP/Widget.php:16 Core/Photonic.php:1219
+msgid "Click on the icon to edit your gallery."
+msgstr ""
+
+#: Add_Ons/WP/Widget.php:18
+msgid "Photonic Gallery"
+msgstr ""
+
+#: Add_Ons/WP/Widget.php:104
+msgid "Title"
+msgstr ""
+
+#: Add_Ons/WP/Widget.php:121 Core/Photonic.php:1218
+msgid "Current shortcode"
+msgstr ""
+
+#: Admin/Admin.php:59 Admin/Admin.php:65
+msgid "Add / Edit Photonic Gallery"
+msgstr ""
+
+#: Admin/Admin.php:76
+msgid "Insert Gallery"
+msgstr ""
+
+#: Admin/Admin.php:77
+msgid "Update Gallery"
+msgstr ""
+
+#: Admin/Admin.php:78 Admin/Wizard/Source.php:42 Admin/Wizard/Wizard.php:26
+msgid ""
+"Please fill the mandatory fields. Mandatory fields are marked with a red "
+"\"*\"."
+msgstr ""
+
+#: Admin/Admin.php:79
+msgid "Select from WordPress Media Library"
+msgstr ""
+
+#: Admin/Admin.php:80
+msgid "Select"
+msgstr ""
+
+#: Admin/Admin.php:81
+msgid ""
+"The text selected in the editor is not a Photonic shortcode. Creating a new "
+"shortcode."
+msgstr ""
+
+#: Admin/Admin.php:82
+msgid "%1$sHint:%2$s To edit an existing Photonic block simply click on the block."
+msgstr ""
+
+#: Admin/Admin.php:292
+msgid ""
+"It looks like you are using the Gutenberg editor. Please ensure that you "
+"have followed the instructions under %s."
+msgstr ""
+
+#: Admin/Admin_Menu.php:94 Admin/Authentication.php:114
+#: Admin/Authentication.php:123 Admin/Authentication.php:162
+#: Admin/Authentication.php:171
+msgid "Step 2: Obtain Token"
+msgstr ""
+
+#: Admin/Authentication.php:78 Admin/Helper.php:111
+msgid "Please set up your Google Client ID and Client Secret under %s"
+msgstr ""
+
+#: Admin/Authentication.php:90 Admin/Authentication.php:149
+msgid "You first have to authorize Photonic to connect to your Google account."
+msgstr ""
+
+#: Admin/Authentication.php:107 Admin/Authentication.php:118
+#: Admin/Authentication.php:157 Admin/Authentication.php:166
+msgid "Step 1: Authenticate"
+msgstr ""
+
+#: Admin/Authentication.php:112 Admin/Authentication.php:121
+#: Admin/Authentication.php:160 Admin/Authentication.php:169
+msgid "Next, you have to obtain the token."
+msgstr ""
+
+#: Admin/Authentication.php:130
+msgid ""
+"If you are facing issues with the authentication please follow the "
+"workaround %1$shere%2$s"
+msgstr ""
+
+#: Admin/Authentication.php:178
+msgid ""
+"If the above method is not working due to conflicts with your site's "
+"security setup try an alternative method where the authentication happens "
+"on a different site."
+msgstr ""
+
+#: Admin/Authentication.php:184
+msgid "Authenticate using Photonic's website"
+msgstr ""
+
+#: Admin/Authentication.php:212 Admin/Authentication.php:331
+msgid "Save Token"
+msgstr ""
+
+#: Admin/Authentication.php:222
+msgid "Please set up the default user for Zenfolio under %s"
+msgstr ""
+
+#: Admin/Authentication.php:232
+msgid "Password:"
+msgstr ""
+
+#: Admin/Authentication.php:237
+msgid "Login and Authenticate"
+msgstr ""
+
+#: Admin/Authentication.php:241
+msgid "Delete current Zenfolio authentication data"
+msgstr ""
+
+#: Admin/Authentication.php:268
+msgid "Please set up your %1$s API key under %2$s."
+msgstr ""
+
+#: Admin/Authentication.php:276
+msgid ""
+"Your authentication credentials are for the old Instagram API. Please "
+"reauthenticate to keep Photonic working."
+msgstr ""
+
+#: Admin/Authentication.php:279
+msgid ""
+"Your authentication credentials are expiring soon. Please reauthenticate to "
+"keep Photonic working."
+msgstr ""
+
+#: Admin/Authentication.php:282
+msgid ""
+"Your authentication credentials have expired! Please reauthenticate to keep "
+"Photonic working."
+msgstr ""
+
+#: Admin/Authentication.php:288
+msgid "You are logged in as %1$s."
+msgstr ""
+
+#: Admin/Authentication.php:339
+msgid ""
+"You have already set up your authentication. Unless you wish to regenerate "
+"the token this step is not required. "
+msgstr ""
+
+#: Admin/Authentication.php:347
+msgid "Login and get Access Token from %s"
+msgstr ""
+
+#: Admin/Authentication.php:413
+msgid ""
+"Authentication successful! All your galleries will be displayed with "
+"Authentication in place."
+msgstr ""
+
+#: Admin/Forms/Add_Gallery.php:140
+msgid "Shortcode preview"
+msgstr ""
+
+#: Admin/Forms/Add_Gallery.php:146
+msgid "Insert into post"
+msgstr ""
+
+#: Admin/Forms/Add_Gallery.php:147
+msgid "Cancel"
+msgstr ""
+
+#: Admin/Forms/Vanilla_Form.php:41
+msgid "WP Galleries"
+msgstr ""
+
+#: Admin/Forms/Vanilla_Form.php:45 Admin/Forms/Vanilla_Form.php:224
+msgid "Gallery ID"
+msgstr ""
+
+#: Admin/Forms/Vanilla_Form.php:52
+msgid "Image IDs"
+msgstr ""
+
+#: Admin/Forms/Vanilla_Form.php:54
+msgid "Comma-separated. You can specify this if there is no Gallery ID specified."
+msgstr ""
+
+#: Admin/Forms/Vanilla_Form.php:59
+msgid "Display Style"
+msgstr ""
+
+#: Admin/Forms/Vanilla_Form.php:62 Admin/Forms/Vanilla_Form.php:368
+#: Admin/Forms/Vanilla_Form.php:584 Admin/Forms/Vanilla_Form.php:790
+#: Admin/Forms/Vanilla_Form.php:1016 Admin/Forms/Vanilla_Form.php:1173
+msgid "The first four options trigger a slideshow, the rest trigger a lightbox."
+msgstr ""
+
+#: Admin/Forms/Vanilla_Form.php:67 Admin/Forms/Vanilla_Form.php:1078
+#: Admin/Forms/Vanilla_Form.php:1193 Admin/Wizard/Screen_Fields.php:72
+#: Admin/Wizard/WP.php:56
+msgid "Number of photos to show"
+msgstr ""
+
+#: Admin/Forms/Vanilla_Form.php:73 Admin/Forms/Vanilla_Form.php:329
+#: Admin/Forms/Vanilla_Form.php:560 Admin/Forms/Vanilla_Form.php:848
+#: Admin/Forms/Vanilla_Form.php:1085 Admin/Forms/Vanilla_Form.php:1199
+#: Admin/Wizard/Screen_Fields.php:77 Admin/Wizard/Screen_Fields.php:94
+msgid "\"More\" button text"
+msgstr ""
+
+#: Admin/Forms/Vanilla_Form.php:75 Admin/Forms/Vanilla_Form.php:1087
+#: Admin/Forms/Vanilla_Form.php:1201 Admin/Wizard/Screen_Fields.php:79
+msgid ""
+"Will show a \"More\" button with the specified text if the number of photos "
+"is higher than the above entry. Leave blank to show no button"
+msgstr ""
+
+#: Admin/Forms/Vanilla_Form.php:80 Admin/Forms/Vanilla_Form.php:374
+#: Admin/Forms/Vanilla_Form.php:796 Admin/Forms/Vanilla_Form.php:1034
+msgid "Photo title / caption"
+msgstr ""
+
+#: Admin/Forms/Vanilla_Form.php:84 Admin/Forms/Vanilla_Form.php:378
+#: Admin/Forms/Vanilla_Form.php:800 Admin/Forms/Vanilla_Form.php:1038
+msgid "This will be used as the title for your photos."
+msgstr ""
+
+#: Admin/Forms/Vanilla_Form.php:89 Admin/Forms/Vanilla_Form.php:271
+#: Admin/Forms/Vanilla_Form.php:836 Admin/Forms/Vanilla_Form.php:1072
+#: Admin/Forms/Vanilla_Form.php:1187
+msgid "Number of columns"
+msgstr ""
+
+#: Admin/Forms/Vanilla_Form.php:96
+msgid "Thumbnail width"
+msgstr ""
+
+#: Admin/Forms/Vanilla_Form.php:99 Admin/Forms/Vanilla_Form.php:107
+msgid "In pixels"
+msgstr ""
+
+#: Admin/Forms/Vanilla_Form.php:104
+msgid "Thumbnail height"
+msgstr ""
+
+#: Admin/Forms/Vanilla_Form.php:112 Admin/Forms/Vanilla_Form.php:383
+#: Admin/Forms/Vanilla_Form.php:590 Admin/Forms/Vanilla_Form.php:805
+#: Admin/Forms/Vanilla_Form.php:1043 Admin/Wizard/Flickr.php:408
+#: Admin/Wizard/Google_Photos.php:219 Admin/Wizard/SmugMug.php:351
+#: Admin/Wizard/WP.php:73 Admin/Wizard/Zenfolio.php:421
+msgid "Thumbnail size"
+msgstr ""
+
+#: Admin/Forms/Vanilla_Form.php:115
+msgid ""
+"Sizes defined by your theme. Image picked here will be resized to the "
+"dimensions above."
+msgstr ""
+
+#: Admin/Forms/Vanilla_Form.php:120 Admin/Forms/Vanilla_Form.php:398
+#: Admin/Forms/Vanilla_Form.php:610 Admin/Forms/Vanilla_Form.php:818
+#: Admin/Forms/Vanilla_Form.php:1058 Admin/Wizard/Flickr.php:386
+#: Admin/Wizard/Google_Photos.php:207 Admin/Wizard/SmugMug.php:331
+#: Admin/Wizard/WP.php:61 Admin/Wizard/Zenfolio.php:378
+msgid "Main image size"
+msgstr ""
+
+#: Admin/Forms/Vanilla_Form.php:123
+msgid ""
+"Sizes defined by your theme. Shown in a slideshow or lightbox. Avoid "
+"loading large sizes to reduce page loads."
+msgstr ""
+
+#: Admin/Forms/Vanilla_Form.php:129 Admin/Forms/Vanilla_Form.php:618
+msgid "Tile image size"
+msgstr ""
+
+#: Admin/Forms/Vanilla_Form.php:132
+msgid ""
+"Sizes defined by your theme. Shown in mosaic or masonry or random justified "
+"grid galleries. Avoid loading large sizes to reduce page loads."
+msgstr ""
+
+#: Admin/Forms/Vanilla_Form.php:137 Admin/Forms/Vanilla_Form.php:426
+#: Admin/Forms/Vanilla_Form.php:626 Admin/Forms/Vanilla_Form.php:869
+#: Admin/Forms/Vanilla_Form.php:1106 Admin/Forms/Vanilla_Form.php:1206
+#: Admin/Wizard/Source.php:173
+msgid "Slideshow Effects"
+msgstr ""
+
+#: Admin/Forms/Vanilla_Form.php:140 Admin/Forms/Vanilla_Form.php:430
+#: Admin/Forms/Vanilla_Form.php:630 Admin/Forms/Vanilla_Form.php:873
+#: Admin/Forms/Vanilla_Form.php:1110 Admin/Forms/Vanilla_Form.php:1210
+#: Admin/Wizard/Source.php:176
+msgid "Fade"
+msgstr ""
+
+#: Admin/Forms/Vanilla_Form.php:141 Admin/Forms/Vanilla_Form.php:431
+#: Admin/Forms/Vanilla_Form.php:631 Admin/Forms/Vanilla_Form.php:874
+#: Admin/Forms/Vanilla_Form.php:1111 Admin/Forms/Vanilla_Form.php:1211
+#: Admin/Wizard/Source.php:177
+msgid "Slide"
+msgstr ""
+
+#: Admin/Forms/Vanilla_Form.php:144 Admin/Forms/Vanilla_Form.php:163
+#: Admin/Forms/Vanilla_Form.php:171 Admin/Forms/Vanilla_Form.php:434
+#: Admin/Forms/Vanilla_Form.php:454 Admin/Forms/Vanilla_Form.php:462
+#: Admin/Forms/Vanilla_Form.php:634 Admin/Forms/Vanilla_Form.php:654
+#: Admin/Forms/Vanilla_Form.php:662 Admin/Forms/Vanilla_Form.php:877
+#: Admin/Forms/Vanilla_Form.php:897 Admin/Forms/Vanilla_Form.php:905
+#: Admin/Forms/Vanilla_Form.php:1114 Admin/Forms/Vanilla_Form.php:1134
+#: Admin/Forms/Vanilla_Form.php:1142 Admin/Forms/Vanilla_Form.php:1214
+#: Admin/Forms/Vanilla_Form.php:1234 Admin/Forms/Vanilla_Form.php:1242
+msgid "Applies to slideshows only"
+msgstr ""
+
+#: Admin/Forms/Vanilla_Form.php:149 Admin/Forms/Vanilla_Form.php:439
+#: Admin/Forms/Vanilla_Form.php:639 Admin/Forms/Vanilla_Form.php:882
+#: Admin/Forms/Vanilla_Form.php:1119 Admin/Forms/Vanilla_Form.php:1219
+#: Admin/Wizard/Source.php:164
+msgid "Slideshow Controls"
+msgstr ""
+
+#: Admin/Forms/Vanilla_Form.php:152 Admin/Forms/Vanilla_Form.php:443
+#: Admin/Forms/Vanilla_Form.php:643 Admin/Forms/Vanilla_Form.php:886
+#: Admin/Forms/Vanilla_Form.php:1123 Admin/Forms/Vanilla_Form.php:1223
+#: Admin/Wizard/Source.php:167 Core/Photonic.php:1030
+msgid "Hide"
+msgstr ""
+
+#: Admin/Forms/Vanilla_Form.php:153 Admin/Forms/Vanilla_Form.php:444
+#: Admin/Forms/Vanilla_Form.php:644 Admin/Forms/Vanilla_Form.php:887
+#: Admin/Forms/Vanilla_Form.php:1124 Admin/Forms/Vanilla_Form.php:1224
+#: Admin/Wizard/Source.php:168 Core/Photonic.php:1029 Modules/Core.php:197
+msgid "Show"
+msgstr ""
+
+#: Admin/Forms/Vanilla_Form.php:155 Admin/Forms/Vanilla_Form.php:446
+#: Admin/Forms/Vanilla_Form.php:646 Admin/Forms/Vanilla_Form.php:889
+#: Admin/Forms/Vanilla_Form.php:1126 Admin/Forms/Vanilla_Form.php:1226
+#: Admin/Wizard/Source.php:170
+msgid "Shows Previous and Next buttons on the slideshow."
+msgstr ""
+
+#: Admin/Forms/Vanilla_Form.php:160 Admin/Forms/Vanilla_Form.php:451
+#: Admin/Forms/Vanilla_Form.php:651 Admin/Forms/Vanilla_Form.php:894
+#: Admin/Forms/Vanilla_Form.php:1131 Admin/Forms/Vanilla_Form.php:1231
+#: Admin/Wizard/Source.php:182
+msgid "Time between slides in ms"
+msgstr ""
+
+#: Admin/Forms/Vanilla_Form.php:168 Admin/Forms/Vanilla_Form.php:459
+#: Admin/Forms/Vanilla_Form.php:659 Admin/Forms/Vanilla_Form.php:902
+#: Admin/Forms/Vanilla_Form.php:1139 Admin/Forms/Vanilla_Form.php:1239
+#: Admin/Wizard/Source.php:188
+msgid "Time for each transition in ms"
+msgstr ""
+
+#: Admin/Forms/Vanilla_Form.php:180
+msgid "Flickr"
+msgstr ""
+
+#: Admin/Forms/Vanilla_Form.php:181
+msgid ""
+"You have to define your Flickr API Key under %10$s.%1$s Documentation: "
+"%3$sOverall%2$s | %4$sPhotos%2$s | %5$sSingle Photos%2$s | %6$sAlbums "
+"(Photosets)%2$s| %7$sGalleries%2$s | %8$sCollections%2$s | "
+"%9$sAuthentication%2$s"
+msgstr ""
+
+#: Admin/Forms/Vanilla_Form.php:195
+msgid "User ID"
+msgstr ""
+
+#: Admin/Forms/Vanilla_Form.php:198
+msgid "Find your user ID from %s."
+msgstr ""
+
+#: Admin/Forms/Vanilla_Form.php:203 Admin/Forms/Vanilla_Form.php:480
+#: Admin/Forms/Vanilla_Form.php:683 Admin/Forms/Vanilla_Form.php:925
+msgid "Display"
+msgstr ""
+
+#: Admin/Forms/Vanilla_Form.php:206 Admin/Forms/Vanilla_Form.php:484
+#: Admin/Forms/Vanilla_Form.php:928
+msgid "Photos"
+msgstr ""
+
+#: Admin/Forms/Vanilla_Form.php:207 Admin/Forms/Vanilla_Form.php:929
+msgid "Photosets"
+msgstr ""
+
+#: Admin/Forms/Vanilla_Form.php:208
+msgid "Galleries"
+msgstr ""
+
+#: Admin/Forms/Vanilla_Form.php:209
+msgid "Collections"
+msgstr ""
+
+#: Admin/Forms/Vanilla_Form.php:210 Admin/Wizard/Instagram.php:30
+#: Admin/Wizard/Zenfolio.php:76
+msgid "Single Photo"
+msgstr ""
+
+#: Admin/Forms/Vanilla_Form.php:217
+msgid "Album ID (Photoset ID)"
+msgstr ""
+
+#: Admin/Forms/Vanilla_Form.php:219
+msgid "Will show a single photoset if \"Display\" is set to \"Photosets\""
+msgstr ""
+
+#: Admin/Forms/Vanilla_Form.php:226
+msgid "Will show a single gallery if \"Display\" is set to \"Galleries\""
+msgstr ""
+
+#: Admin/Forms/Vanilla_Form.php:231
+msgid "Collection ID"
+msgstr ""
+
+#: Admin/Forms/Vanilla_Form.php:233
+msgid ""
+"Will show contents of a single collection if \"Display\" is set to "
+"\"Collections\""
+msgstr ""
+
+#: Admin/Forms/Vanilla_Form.php:238
+msgid "Photo ID"
+msgstr ""
+
+#: Admin/Forms/Vanilla_Form.php:240
+msgid "Will show a single photo if \"Display\" is set to \"Single Photo\""
+msgstr ""
+
+#: Admin/Forms/Vanilla_Form.php:245 Admin/Forms/Vanilla_Form.php:717
+msgid "Filter"
+msgstr ""
+
+#: Admin/Forms/Vanilla_Form.php:247
+msgid ""
+"If \"Display\" is \"Photosets\" or \"Galleries\" or \"Collections\" and you "
+"provide a comma-separated list of values here, these entities will be "
+"included / excluded based on the next option. Useful if you want to display "
+"a single thumbnail for a single photoset / gallery, ignored if Photoset, "
+"Gallery or Collection ID is provided"
+msgstr ""
+
+#: Admin/Forms/Vanilla_Form.php:252 Admin/Forms/Vanilla_Form.php:724
+msgid "Filter Type"
+msgstr ""
+
+#: Admin/Forms/Vanilla_Form.php:256 Admin/Forms/Vanilla_Form.php:523
+#: Admin/Forms/Vanilla_Form.php:728
+msgid "Include above list in results"
+msgstr ""
+
+#: Admin/Forms/Vanilla_Form.php:257 Admin/Forms/Vanilla_Form.php:524
+#: Admin/Forms/Vanilla_Form.php:729
+msgid "Exclude above list from results"
+msgstr ""
+
+#: Admin/Forms/Vanilla_Form.php:263 Admin/Forms/Vanilla_Form.php:546
+#: Admin/Forms/Vanilla_Form.php:749 Admin/Forms/Vanilla_Form.php:1005
+#: Admin/Forms/Vanilla_Form.php:1179 Admin/Wizard/Flickr.php:326
+#: Admin/Wizard/Google_Photos.php:187 Admin/Wizard/Instagram.php:108
+#: Admin/Wizard/SmugMug.php:250 Admin/Wizard/Zenfolio.php:311
+msgid "Media to Show"
+msgstr ""
+
+#: Admin/Forms/Vanilla_Form.php:277 Admin/Wizard/Flickr.php:146
+msgid "Tags"
+msgstr ""
+
+#: Admin/Forms/Vanilla_Form.php:279 Admin/Wizard/Flickr.php:148
+msgid "Comma-separated list of tags"
+msgstr ""
+
+#: Admin/Forms/Vanilla_Form.php:284 Admin/Wizard/Flickr.php:152
+msgid "Tag mode"
+msgstr ""
+
+#: Admin/Forms/Vanilla_Form.php:287 Admin/Wizard/Flickr.php:155
+msgid "Any tag"
+msgstr ""
+
+#: Admin/Forms/Vanilla_Form.php:288 Admin/Wizard/Flickr.php:156
+msgid "All tags"
+msgstr ""
+
+#: Admin/Forms/Vanilla_Form.php:294 Admin/Wizard/Flickr.php:161
+#: Admin/Wizard/Zenfolio.php:135 Admin/Wizard/Zenfolio.php:191
+#: Admin/Wizard/Zenfolio.php:225 Admin/Wizard/Zenfolio.php:259
+msgid "With text"
+msgstr ""
+
+#: Admin/Forms/Vanilla_Form.php:300 Admin/Wizard/Flickr.php:312
+msgid "Sort by"
+msgstr ""
+
+#: Admin/Forms/Vanilla_Form.php:303 Admin/Wizard/Flickr.php:316
+msgid "Date posted, descending"
+msgstr ""
+
+#: Admin/Forms/Vanilla_Form.php:304 Admin/Wizard/Flickr.php:317
+msgid "Date posted, ascending"
+msgstr ""
+
+#: Admin/Forms/Vanilla_Form.php:305 Admin/Wizard/Flickr.php:318
+msgid "Date taken, ascending"
+msgstr ""
+
+#: Admin/Forms/Vanilla_Form.php:306 Admin/Wizard/Flickr.php:319
+msgid "Date taken, descending"
+msgstr ""
+
+#: Admin/Forms/Vanilla_Form.php:307 Admin/Wizard/Flickr.php:320
+msgid "Interestingness, descending"
+msgstr ""
+
+#: Admin/Forms/Vanilla_Form.php:308 Admin/Wizard/Flickr.php:321
+msgid "Interestingness, ascending"
+msgstr ""
+
+#: Admin/Forms/Vanilla_Form.php:309 Admin/Wizard/Flickr.php:322
+msgid "Relevance"
+msgstr ""
+
+#: Admin/Forms/Vanilla_Form.php:315
+msgid "Group ID"
+msgstr ""
+
+#: Admin/Forms/Vanilla_Form.php:321
+msgid "Number of photos / albums / galleries to show"
+msgstr ""
+
+#: Admin/Forms/Vanilla_Form.php:323
+msgid "Will show at the most 100 by default, 500 is the maximum"
+msgstr ""
+
+#: Admin/Forms/Vanilla_Form.php:331
+msgid ""
+"Will show a \"More\" button with the specified text if the number of photos "
+"/ albums / galleries is higher than the above entry. Leave blank to show no "
+"button"
+msgstr ""
+
+#: Admin/Forms/Vanilla_Form.php:336 Admin/Forms/Vanilla_Form.php:567
+#: Admin/Forms/Vanilla_Form.php:855 Admin/Forms/Vanilla_Form.php:1092
+msgid "Number of photos to show in overlaid popup"
+msgstr ""
+
+#: Admin/Forms/Vanilla_Form.php:338
+msgid ""
+"Applicable for pagination if %1$s is selected. Leave blank to show maximum "
+"allowed photos."
+msgstr ""
+
+#: Admin/Forms/Vanilla_Form.php:343 Admin/Forms/Vanilla_Form.php:574
+#: Admin/Forms/Vanilla_Form.php:862 Admin/Forms/Vanilla_Form.php:1099
+msgid "\"More\" button text in overlaid popup"
+msgstr ""
+
+#: Admin/Forms/Vanilla_Form.php:345
+msgid ""
+"Applicable for pagination if %1$s is selected. Will show a \"More\" button "
+"with the specified text if the number of photos is higher than the above "
+"entry. Leave blank to show no button."
+msgstr ""
+
+#: Admin/Forms/Vanilla_Form.php:350 Admin/Wizard/Flickr.php:166
+#: Admin/Wizard/Flickr.php:191
+msgid "Privacy filter"
+msgstr ""
+
+#: Admin/Forms/Vanilla_Form.php:353 Admin/Wizard/Flickr.php:169
+#: Admin/Wizard/Flickr.php:194
+msgid "None"
+msgstr ""
+
+#: Admin/Forms/Vanilla_Form.php:354 Admin/Wizard/Flickr.php:170
+#: Admin/Wizard/Flickr.php:195
+msgid "Public photos"
+msgstr ""
+
+#: Admin/Forms/Vanilla_Form.php:355 Admin/Wizard/Flickr.php:171
+#: Admin/Wizard/Flickr.php:196
+msgid "Private photos visible to friends"
+msgstr ""
+
+#: Admin/Forms/Vanilla_Form.php:356 Admin/Wizard/Flickr.php:172
+#: Admin/Wizard/Flickr.php:197
+msgid "Private photos visible to family"
+msgstr ""
+
+#: Admin/Forms/Vanilla_Form.php:357 Admin/Wizard/Flickr.php:173
+#: Admin/Wizard/Flickr.php:198
+msgid "Private photos visible to friends & family"
+msgstr ""
+
+#: Admin/Forms/Vanilla_Form.php:358 Admin/Wizard/Flickr.php:174
+#: Admin/Wizard/Flickr.php:199
+msgid "Completely private photos"
+msgstr ""
+
+#: Admin/Forms/Vanilla_Form.php:360
+msgid "Applicable only if Flickr private photos are turned on"
+msgstr ""
+
+#: Admin/Forms/Vanilla_Form.php:365 Admin/Forms/Vanilla_Form.php:581
+#: Admin/Forms/Vanilla_Form.php:787 Admin/Forms/Vanilla_Form.php:1013
+#: Admin/Forms/Vanilla_Form.php:1170
+msgid "Layout"
+msgstr ""
+
+#: Admin/Forms/Vanilla_Form.php:387 Admin/Wizard/Flickr.php:18
+msgid "Small square, 75x75px"
+msgstr ""
+
+#: Admin/Forms/Vanilla_Form.php:388 Admin/Wizard/Flickr.php:19
+msgid "Large square, 150x150px"
+msgstr ""
+
+#: Admin/Forms/Vanilla_Form.php:389 Admin/Wizard/Flickr.php:20
+msgid "Thumbnail, 100px on longest side"
+msgstr ""
+
+#: Admin/Forms/Vanilla_Form.php:390 Admin/Wizard/Flickr.php:21
+msgid "Small, 240px on longest side"
+msgstr ""
+
+#: Admin/Forms/Vanilla_Form.php:391 Admin/Wizard/Flickr.php:22
+#: Admin/Wizard/Flickr.php:27
+msgid "Small, 320px on longest side"
+msgstr ""
+
+#: Admin/Forms/Vanilla_Form.php:393 Admin/Forms/Vanilla_Form.php:813
+#: Admin/Forms/Vanilla_Form.php:1053
+msgid "In pixels, only applicable to square and circular thumbnails"
+msgstr ""
+
+#: Admin/Forms/Vanilla_Form.php:402 Admin/Wizard/Flickr.php:28
+#: Admin/Wizard/Flickr.php:38
+msgid "Medium, 500px on the longest side"
+msgstr ""
+
+#: Admin/Forms/Vanilla_Form.php:403 Admin/Wizard/Flickr.php:29
+#: Admin/Wizard/Flickr.php:39
+msgid "Medium, 640px on longest side"
+msgstr ""
+
+#: Admin/Forms/Vanilla_Form.php:404 Admin/Wizard/Flickr.php:30
+#: Admin/Wizard/Flickr.php:40
+msgid "Medium, 800px on longest side"
+msgstr ""
+
+#: Admin/Forms/Vanilla_Form.php:405 Admin/Wizard/Flickr.php:31
+#: Admin/Wizard/Flickr.php:41
+msgid "Large, 1024px on longest side"
+msgstr ""
+
+#: Admin/Forms/Vanilla_Form.php:406 Admin/Wizard/Flickr.php:32
+#: Admin/Wizard/Flickr.php:42
+msgid "Large, 1600px on longest side"
+msgstr ""
+
+#: Admin/Forms/Vanilla_Form.php:407 Admin/Wizard/Flickr.php:33
+#: Admin/Wizard/Flickr.php:43
+msgid "Large, 2048px on longest side"
+msgstr ""
+
+#: Admin/Forms/Vanilla_Form.php:408 Admin/Wizard/Flickr.php:34
+#: Admin/Wizard/Flickr.php:44
+msgid "Original"
+msgstr ""
+
+#: Admin/Forms/Vanilla_Form.php:414 Admin/Wizard/Flickr.php:359
+msgid "Expand Collections"
+msgstr ""
+
+#: Admin/Forms/Vanilla_Form.php:418 Admin/Wizard/Flickr.php:363
+msgid "Lazy loading"
+msgstr ""
+
+#: Admin/Forms/Vanilla_Form.php:419 Admin/Wizard/Flickr.php:364
+msgid "Expanded upfront"
+msgstr ""
+
+#: Admin/Forms/Vanilla_Form.php:421 Admin/Wizard/Flickr.php:366
+msgid ""
+"The Collections API is slow, so, if you are displaying collections, pick "
+"%1$slazy loading%2$s if your collections have many albums / photosets."
+msgstr ""
+
+#: Admin/Forms/Vanilla_Form.php:471
+msgid "Google Photos"
+msgstr ""
+
+#: Admin/Forms/Vanilla_Form.php:472
+msgid "Documentation: %2$sOverall%1$s | %3$sPhotos%1$s | %4$sAlbums%1$s"
+msgstr ""
+
+#: Admin/Forms/Vanilla_Form.php:483
+msgid "Albums"
+msgstr ""
+
+#: Admin/Forms/Vanilla_Form.php:486
+msgid ""
+"Pick \"Albums\" if you want to display a collection of albums. Pick "
+"\"Photos\" if you want to display photos from a single album or from your "
+"photo-stream."
+msgstr ""
+
+#: Admin/Forms/Vanilla_Form.php:491 Admin/Forms/Vanilla_Form.php:710
+msgid "Album"
+msgstr ""
+
+#: Admin/Forms/Vanilla_Form.php:493
+msgid ""
+"Applicable if \"Display\" is \"Photos\" and you want to show photos from an "
+"album. See %1$shere%2$s for more details."
+msgstr ""
+
+#: Admin/Forms/Vanilla_Form.php:498
+msgid "Displayed Access Levels"
+msgstr ""
+
+#: Admin/Forms/Vanilla_Form.php:502
+msgid "Show all shared and not shared albums"
+msgstr ""
+
+#: Admin/Forms/Vanilla_Form.php:503 Admin/Wizard/Google_Photos.php:162
+msgid "Only show shared albums"
+msgstr ""
+
+#: Admin/Forms/Vanilla_Form.php:504 Admin/Wizard/Google_Photos.php:163
+msgid "Only show albums not shared"
+msgstr ""
+
+#: Admin/Forms/Vanilla_Form.php:507
+msgid ""
+"If \"Display\" is \"Albums\" you can decide to show shared or not-shared "
+"albums. See %1$shere%2$s for more details."
+msgstr ""
+
+#: Admin/Forms/Vanilla_Form.php:512
+msgid "Album Filter"
+msgstr ""
+
+#: Admin/Forms/Vanilla_Form.php:514
+msgid ""
+"If \"Display\" is \"Albums\" and you provide a comma-separated list of "
+"values here, these entities will be included / excluded based on the next "
+"option. Useful if you want to display thumbnails for certain albums only, "
+"ignored if an album id is provided above"
+msgstr ""
+
+#: Admin/Forms/Vanilla_Form.php:519
+msgid "Album Filter Type"
+msgstr ""
+
+#: Admin/Forms/Vanilla_Form.php:530 Admin/Wizard/Google_Photos.php:104
+msgid "Date Filters"
+msgstr ""
+
+#: Admin/Forms/Vanilla_Form.php:532
+msgid ""
+"Applicable only if \"Display\" is \"Photos\". You can provide a "
+"comma-separated list of dates and ranges in the format %1$sY/M/D%2$s or "
+"%1$sY/M/D-Y/M/D%2$s."
+msgstr ""
+
+#: Admin/Forms/Vanilla_Form.php:538 Admin/Wizard/Google_Photos.php:116
+msgid "Content Filters"
+msgstr ""
+
+#: Admin/Forms/Vanilla_Form.php:540
+msgid ""
+"Applicable only if \"Display\" is \"Photos\". You can provide a "
+"comma-separated list of categories from %s."
+msgstr ""
+
+#: Admin/Forms/Vanilla_Form.php:554 Admin/Forms/Vanilla_Form.php:842
+msgid "Number of photos / albums to show"
+msgstr ""
+
+#: Admin/Forms/Vanilla_Form.php:562 Admin/Forms/Vanilla_Form.php:850
+msgid ""
+"Will show a \"More\" button with the specified text if the number of photos "
+"/ albums is higher than the above entry. Leave blank to show no button"
+msgstr ""
+
+#: Admin/Forms/Vanilla_Form.php:569 Admin/Forms/Vanilla_Form.php:857
+#: Admin/Forms/Vanilla_Form.php:1094
+msgid ""
+"Applicable for pagination if %s is selected. Leave blank to show maximum "
+"allowed photos."
+msgstr ""
+
+#: Admin/Forms/Vanilla_Form.php:576 Admin/Forms/Vanilla_Form.php:864
+#: Admin/Forms/Vanilla_Form.php:1101
+msgid ""
+"Applicable for pagination if %s is selected. Will show a \"More\" button "
+"with the specified text if the number of photos is higher than the above "
+"entry. Leave blank to show no button."
+msgstr ""
+
+#: Admin/Forms/Vanilla_Form.php:593
+msgid ""
+"In pixels, only applicable to square and circular thumbnails. Permitted "
+"values: 32, 48, 64, 72, 104, 144, 150, 160."
+msgstr ""
+
+#: Admin/Forms/Vanilla_Form.php:598 Admin/Wizard/Google_Photos.php:225
+msgid "Crop Thumbnail"
+msgstr ""
+
+#: Admin/Forms/Vanilla_Form.php:601 Admin/Wizard/Google_Photos.php:228
+msgid "Crop the thumbnail"
+msgstr ""
+
+#: Admin/Forms/Vanilla_Form.php:602 Admin/Wizard/Google_Photos.php:229
+msgid "Do not crop the thumbnail"
+msgstr ""
+
+#: Admin/Forms/Vanilla_Form.php:605 Admin/Wizard/Google_Photos.php:232
+msgid "Cropping the thumbnail presents you with a square thumbnail."
+msgstr ""
+
+#: Admin/Forms/Vanilla_Form.php:613 Admin/Wizard/Google_Photos.php:210
+msgid "Numeric values between 1 and 16383, both inclusive."
+msgstr ""
+
+#: Admin/Forms/Vanilla_Form.php:621 Admin/Wizard/Google_Photos.php:242
+msgid ""
+"Numeric values between 1 and 16383, both inclusive. Leave blank to use the "
+"\"Main image size\"."
+msgstr ""
+
+#: Admin/Forms/Vanilla_Form.php:671
+msgid "SmugMug"
+msgstr ""
+
+#: Admin/Forms/Vanilla_Form.php:672
+msgid ""
+"You have to define your SmugMug API Key under %1$s.%2$s Documentation: "
+"%4$sOverall%3$s | %5$sPhotos%3$s | %6$sAlbums%3$s | %7$sFolders%3$s | "
+"%8$sUser Tree%3$s"
+msgstr ""
+
+#: Admin/Forms/Vanilla_Form.php:686
+msgid "Tree"
+msgstr ""
+
+#: Admin/Forms/Vanilla_Form.php:687
+msgid "All albums"
+msgstr ""
+
+#: Admin/Forms/Vanilla_Form.php:688
+msgid "Single Album"
+msgstr ""
+
+#: Admin/Forms/Vanilla_Form.php:689
+msgid "Single Folder"
+msgstr ""
+
+#: Admin/Forms/Vanilla_Form.php:696
+msgid "Nickname"
+msgstr ""
+
+#: Admin/Forms/Vanilla_Form.php:698
+msgid ""
+"If your SmugMug URL is http://joe-sixpack.smugmug.com, this is "
+"\"joe-sixpack\". Required if the \"Display\" is \"Tree\" or \"All albums\"."
+msgstr ""
+
+#: Admin/Forms/Vanilla_Form.php:703
+msgid "Site Password"
+msgstr ""
+
+#: Admin/Forms/Vanilla_Form.php:705
+msgid ""
+"Required if your entire SmugMug site is password-protected. See "
+"documentation link for \"Albums\" above."
+msgstr ""
+
+#: Admin/Forms/Vanilla_Form.php:712
+msgid ""
+"Required if you are showing \"Single Album\" above. To find this, go to %s "
+"on your dashboard and find the albums for your nickname."
+msgstr ""
+
+#: Admin/Forms/Vanilla_Form.php:719
+msgid ""
+"If \"Display\" is \"All albums\" and you provide a comma-separated list of "
+"album keys here, these entities will be included / excluded based on the "
+"next option. Useful if you want to display thumbnails for certain albums "
+"only, ignored if an album is provided above"
+msgstr ""
+
+#: Admin/Forms/Vanilla_Form.php:735
+msgid "Photos with text"
+msgstr ""
+
+#: Admin/Forms/Vanilla_Form.php:737
+msgid "Will show photos with the specified text. Leave blank for no filter."
+msgstr ""
+
+#: Admin/Forms/Vanilla_Form.php:742
+msgid "Photos with keywords"
+msgstr ""
+
+#: Admin/Forms/Vanilla_Form.php:744
+msgid "Will show photos with the specified keywords. Leave blank for no filter."
+msgstr ""
+
+#: Admin/Forms/Vanilla_Form.php:757
+msgid "Album Password"
+msgstr ""
+
+#: Admin/Forms/Vanilla_Form.php:759
+msgid ""
+"Required if you are showing \"Single Album\" above, and if your album is "
+"password-protected. See documentation link for \"Photos\" above."
+msgstr ""
+
+#: Admin/Forms/Vanilla_Form.php:764 Admin/Wizard/SmugMug.php:312
+msgid "Album sort order"
+msgstr ""
+
+#: Admin/Forms/Vanilla_Form.php:767
+msgid "Album Settings"
+msgstr ""
+
+#: Admin/Forms/Vanilla_Form.php:768
+msgid "Position"
+msgstr ""
+
+#: Admin/Forms/Vanilla_Form.php:769 Admin/Wizard/SmugMug.php:316
+msgid "Last Updated (Descending)"
+msgstr ""
+
+#: Admin/Forms/Vanilla_Form.php:770 Admin/Wizard/SmugMug.php:317
+msgid "Last Updated (Ascending)"
+msgstr ""
+
+#: Admin/Forms/Vanilla_Form.php:771 Admin/Wizard/SmugMug.php:318
+msgid "Date Added (Descending)"
+msgstr ""
+
+#: Admin/Forms/Vanilla_Form.php:772 Admin/Wizard/SmugMug.php:319
+msgid "Date Added (Ascending)"
+msgstr ""
+
+#: Admin/Forms/Vanilla_Form.php:775
+msgid ""
+"If you are displaying multiple albums the results are sorted by this "
+"parameter"
+msgstr ""
+
+#: Admin/Forms/Vanilla_Form.php:780
+msgid "Folder"
+msgstr ""
+
+#: Admin/Forms/Vanilla_Form.php:782
+msgid ""
+"Required if you are showing \"Single Folder\" above. To find this, go to %s "
+"on your dashboard and find the folders for your nickname."
+msgstr ""
+
+#: Admin/Forms/Vanilla_Form.php:809 Admin/Wizard/SmugMug.php:18
+msgid "Tiny"
+msgstr ""
+
+#: Admin/Forms/Vanilla_Form.php:810 Admin/Wizard/SmugMug.php:19
+msgid "Thumb"
+msgstr ""
+
+#: Admin/Forms/Vanilla_Form.php:811 Admin/Wizard/SmugMug.php:20
+msgid "Small"
+msgstr ""
+
+#: Admin/Forms/Vanilla_Form.php:822 Admin/Wizard/SmugMug.php:26
+#: Admin/Wizard/SmugMug.php:40
+msgid "4K (not always available)"
+msgstr ""
+
+#: Admin/Forms/Vanilla_Form.php:823 Admin/Wizard/SmugMug.php:27
+#: Admin/Wizard/SmugMug.php:41
+msgid "5K (not always available)"
+msgstr ""
+
+#: Admin/Forms/Vanilla_Form.php:824 Admin/Wizard/SmugMug.php:28
+#: Admin/Wizard/SmugMug.php:42
+msgid "Medium"
+msgstr ""
+
+#: Admin/Forms/Vanilla_Form.php:825 Admin/Wizard/SmugMug.php:29
+#: Admin/Wizard/SmugMug.php:43
+msgid "Original (not always available)"
+msgstr ""
+
+#: Admin/Forms/Vanilla_Form.php:826 Admin/Wizard/SmugMug.php:30
+#: Admin/Wizard/SmugMug.php:44
+msgid "Large"
+msgstr ""
+
+#: Admin/Forms/Vanilla_Form.php:827 Admin/Wizard/SmugMug.php:31
+#: Admin/Wizard/SmugMug.php:45 Admin/Wizard/SmugMug.php:60
+msgid "Largest available"
+msgstr ""
+
+#: Admin/Forms/Vanilla_Form.php:828 Admin/Wizard/SmugMug.php:32
+#: Admin/Wizard/SmugMug.php:46
+msgid "XLarge (not always available)"
+msgstr ""
+
+#: Admin/Forms/Vanilla_Form.php:829 Admin/Wizard/SmugMug.php:33
+#: Admin/Wizard/SmugMug.php:47
+msgid "X2Large (not always available)"
+msgstr ""
+
+#: Admin/Forms/Vanilla_Form.php:830 Admin/Wizard/SmugMug.php:34
+#: Admin/Wizard/SmugMug.php:48
+msgid "X3Large (not always available)"
+msgstr ""
+
+#: Admin/Forms/Vanilla_Form.php:914
+msgid "Zenfolio"
+msgstr ""
+
+#: Admin/Forms/Vanilla_Form.php:915
+msgid ""
+"Documentation: %2$sOverall%1$s | %3$sPhotos%1$s | %4$sPhotosets%1$s | "
+"%5$sGroups%1$s | %6$sGroup Hierarchy%1$s"
+msgstr ""
+
+#: Admin/Forms/Vanilla_Form.php:930 Admin/Wizard/Zenfolio.php:84
+msgid "Group Hierarchy"
+msgstr ""
+
+#: Admin/Forms/Vanilla_Form.php:931 Admin/Wizard/Flickr.php:98
+msgid "Group"
+msgstr ""
+
+#: Admin/Forms/Vanilla_Form.php:938
+msgid "Object ID"
+msgstr ""
+
+#: Admin/Forms/Vanilla_Form.php:940
+msgid ""
+"Can be set if \"Display\" is %1$sPhotos%2$s, %1$sPhotosets%2$s or "
+"%1$sGroup%2$s."
+msgstr ""
+
+#: Admin/Forms/Vanilla_Form.php:945
+msgid "Search by text"
+msgstr ""
+
+#: Admin/Forms/Vanilla_Form.php:947 Admin/Forms/Vanilla_Form.php:954
+#: Admin/Forms/Vanilla_Form.php:968
+msgid "Can be set if \"Display\" is %1$sPhotos%2$s or %1$sPhotosets%2$s."
+msgstr ""
+
+#: Admin/Forms/Vanilla_Form.php:952
+msgid "Search by category code"
+msgstr ""
+
+#: Admin/Forms/Vanilla_Form.php:955
+msgid "See the list of categories from %s."
+msgstr ""
+
+#: Admin/Forms/Vanilla_Form.php:960 Admin/Wizard/Zenfolio.php:325
+#: Admin/Wizard/Zenfolio.php:344
+msgid "Search results sort order"
+msgstr ""
+
+#: Admin/Forms/Vanilla_Form.php:964 Admin/Wizard/Wizard.php:34
+#: Admin/Wizard/Zenfolio.php:329 Admin/Wizard/Zenfolio.php:348
+msgid "Date"
+msgstr ""
+
+#: Admin/Forms/Vanilla_Form.php:965 Admin/Wizard/Zenfolio.php:330
+#: Admin/Wizard/Zenfolio.php:349
+msgid "Popularity"
+msgstr ""
+
+#: Admin/Forms/Vanilla_Form.php:966 Admin/Wizard/Zenfolio.php:331
+#: Admin/Wizard/Zenfolio.php:350
+msgid "Rank (for searching by text only)"
+msgstr ""
+
+#: Admin/Forms/Vanilla_Form.php:969
+msgid "For search results only."
+msgstr ""
+
+#: Admin/Forms/Vanilla_Form.php:974
+msgid "Photoset type"
+msgstr ""
+
+#: Admin/Forms/Vanilla_Form.php:978
+msgid "Gallery"
+msgstr ""
+
+#: Admin/Forms/Vanilla_Form.php:979
+msgid "Collection"
+msgstr ""
+
+#: Admin/Forms/Vanilla_Form.php:981
+msgid "Mandatory if Display = Photosets and no Object ID is specified."
+msgstr ""
+
+#: Admin/Forms/Vanilla_Form.php:986
+msgid "Display classification"
+msgstr ""
+
+#: Admin/Forms/Vanilla_Form.php:990 Admin/Wizard/SmugMug.php:277
+msgid "Popular"
+msgstr ""
+
+#: Admin/Forms/Vanilla_Form.php:991
+msgid "Recent"
+msgstr ""
+
+#: Admin/Forms/Vanilla_Form.php:993
+msgid ""
+"Mandatory if \"Display\" is %1$sPhotos%2$s or %1$sPhotosets%2$s, and none "
+"of the other criteria above is specified."
+msgstr ""
+
+#: Admin/Forms/Vanilla_Form.php:998
+msgid "Login name"
+msgstr ""
+
+#: Admin/Forms/Vanilla_Form.php:1000
+msgid "Mandatory if Display = Hierarchy"
+msgstr ""
+
+#: Admin/Forms/Vanilla_Form.php:1022 Admin/Wizard/Zenfolio.php:356
+msgid "Group / Hierarchy structure"
+msgstr ""
+
+#: Admin/Forms/Vanilla_Form.php:1026 Admin/Wizard/Zenfolio.php:360
+msgid "All photosets shown in single level"
+msgstr ""
+
+#: Admin/Forms/Vanilla_Form.php:1027 Admin/Wizard/Zenfolio.php:361
+msgid "Photosets shown nested within groups"
+msgstr ""
+
+#: Admin/Forms/Vanilla_Form.php:1029
+msgid "Applicable if groups or hierarchies are being displayed."
+msgstr ""
+
+#: Admin/Forms/Vanilla_Form.php:1047 Admin/Wizard/Zenfolio.php:19
+msgid "Square thumbnail, 60 &times; 60px, cropped square"
+msgstr ""
+
+#: Admin/Forms/Vanilla_Form.php:1048 Admin/Wizard/Zenfolio.php:20
+msgid "Small thumbnail, upto 80 &times; 80px"
+msgstr ""
+
+#: Admin/Forms/Vanilla_Form.php:1049 Admin/Wizard/Zenfolio.php:21
+msgid "Medium thumbnail, upto 120 &times; 120px"
+msgstr ""
+
+#: Admin/Forms/Vanilla_Form.php:1050 Admin/Wizard/Zenfolio.php:22
+msgid "Large thumbnail, upto 120 &times; 120px"
+msgstr ""
+
+#: Admin/Forms/Vanilla_Form.php:1051 Admin/Forms/Vanilla_Form.php:1062
+#: Admin/Wizard/Zenfolio.php:23 Admin/Wizard/Zenfolio.php:28
+#: Admin/Wizard/Zenfolio.php:36
+msgid "Small image, upto 400 &times; 400px"
+msgstr ""
+
+#: Admin/Forms/Vanilla_Form.php:1063 Admin/Wizard/Zenfolio.php:29
+#: Admin/Wizard/Zenfolio.php:37
+msgid "Medium image, upto 580 &times; 450px"
+msgstr ""
+
+#: Admin/Forms/Vanilla_Form.php:1064 Admin/Wizard/Zenfolio.php:30
+#: Admin/Wizard/Zenfolio.php:38
+msgid "Large image, upto 800 &times; 630px"
+msgstr ""
+
+#: Admin/Forms/Vanilla_Form.php:1065 Admin/Wizard/Zenfolio.php:31
+#: Admin/Wizard/Zenfolio.php:39
+msgid "X-Large image, upto 1100 &times; 850px"
+msgstr ""
+
+#: Admin/Forms/Vanilla_Form.php:1066 Admin/Wizard/Zenfolio.php:32
+#: Admin/Wizard/Zenfolio.php:40
+msgid "XX-Large image, upto 1550 &times; 960px"
+msgstr ""
+
+#: Admin/Forms/Vanilla_Form.php:1151
+msgid "Instagram"
+msgstr ""
+
+#: Admin/Forms/Vanilla_Form.php:1152
+msgid "Documentation: %1$sInstagram%2$s"
+msgstr ""
+
+#: Admin/Forms/Vanilla_Form.php:1156
+msgid "Media ID"
+msgstr ""
+
+#: Admin/Forms/Vanilla_Form.php:1158
+msgid ""
+"If your photo is at %1$shttps://instagram.com/p/ABcde5678fg/%2$s, your "
+"media id is %1$sABcde5678fg%2$s."
+msgstr ""
+
+#: Admin/Forms/Vanilla_Form.php:1163
+msgid "Instagram Post ID"
+msgstr ""
+
+#: Admin/Forms/Vanilla_Form.php:1165
+msgid ""
+"If your post is at %1$shttps://instagram.com/p/ABcde5678fg/%2$s, your post "
+"id is %1$sABcde5678fg%2$s."
+msgstr ""
+
+#: Admin/Gutenberg.php:55
+msgid ""
+"%2$sThe following instances were found on your site for Photonic with the "
+"%4$s%1$s%5$s shortcode. %6$sPlease verify the instances below before "
+"replacing the shortcodes. It is strongly recommended to back up the posts "
+"listed below before the shortcode replacement.%7$s%3$s"
+msgstr ""
+
+#: Admin/Helper.php:23
+msgid "Find your User ID"
+msgstr ""
+
+#: Admin/Helper.php:27
+msgid "Find your Group ID"
+msgstr ""
+
+#: Admin/Helper.php:41
+msgid "Find your Album IDs"
+msgstr ""
+
+#: Admin/Helper.php:55
+msgid "Find your Album and Folder IDs"
+msgstr ""
+
+#: Admin/Helper.php:69
+msgid "Categories"
+msgstr ""
+
+#: Admin/Helper.php:81 Admin/Helper.php:95
+msgid "Please set up your Flickr API Key under %s"
+msgstr ""
+
+#: Admin/Helper.php:84
+msgid "Enter your Flickr photostream URL and click \"Find\""
+msgstr ""
+
+#: Admin/Helper.php:87 Admin/Helper.php:101 Admin/Helper.php:134
+msgid "Find"
+msgstr ""
+
+#: Admin/Helper.php:98
+msgid "Enter your Flickr group URL and click \"Find\""
+msgstr ""
+
+#: Admin/Helper.php:115
+msgid "Please obtain your Refresh Token and save it under %s"
+msgstr ""
+
+#: Admin/Helper.php:119
+msgid ""
+"Clicking on the button below will show all albums for the authenticated "
+"user."
+msgstr ""
+
+#: Admin/Helper.php:120
+msgid "Find my albums"
+msgstr ""
+
+#: Admin/Helper.php:128
+msgid "Please set up your SmugMug API Key under %s"
+msgstr ""
+
+#: Admin/Helper.php:131
+msgid "Enter your SmugMug username and click \"Find\""
+msgstr ""
+
+#: Admin/Helper.php:140
+msgid "Click \"List\" to find all available Zenfolio categories."
+msgstr ""
+
+#: Admin/Helper.php:141
+msgid "List"
+msgstr ""
+
+#: Admin/Helper.php:200
+msgid ""
+"If you have protected albums, you will have to %1sauthenticate%2s to see "
+"the protected albums."
+msgstr ""
+
+#: Admin/Helper.php:247
+msgid "Encountered error: "
+msgstr ""
+
+#: Admin/Helper.php:276 Admin/Helper.php:284
+msgid "No response from server!"
+msgstr ""
+
+#: Admin/Helper.php:300
+msgid "User ID:"
+msgstr ""
+
+#: Admin/Helper.php:305
+msgid "Group ID:"
+msgstr ""
+
+#: Admin/Helper.php:412 Admin/Wizard/Wizard.php:1020
+#: Modules/Google_Photos.php:751
+msgid "Load More"
+msgstr ""
+
+#: Admin/Helper.php:422 Modules/Google_Photos.php:761
+msgid "No albums found"
+msgstr ""
+
+#: Admin/Helper.php:448 Modules/Core.php:365
+msgid "%s Message:"
+msgid_plural "%s Messages:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: Admin/Shortcode_Usage.php:41
+msgid "Post Title"
+msgstr ""
+
+#: Admin/Shortcode_Usage.php:42
+msgid "Post Type"
+msgstr ""
+
+#: Admin/Shortcode_Usage.php:43
+msgid "Post Status"
+msgstr ""
+
+#: Admin/Shortcode_Usage.php:44
+msgid "Gallery Shortcodes used by Photonic"
+msgstr ""
+
+#: Admin/Shortcode_Usage.php:145
+msgid "Edit"
+msgstr ""
+
+#: Admin/Shortcode_Usage.php:146 Layouts/Grid.php:108
+msgid "View"
+msgstr ""
+
+#: Admin/Shortcode_Usage.php:147
+msgid "Replace Shortcodes"
+msgstr ""
+
+#: Admin/Shortcode_Usage.php:157
+msgid "No instances of Photonic found with the %s shortcode"
+msgstr ""
+
+#: Admin/Shortcode_Usage.php:162
+msgid "Replace Shortcode"
+msgstr ""
+
+#: Admin/Shortcode_Usage.php:187
+msgid ""
+"Cannot update the posts because a custom shortcode has not been set up "
+"under %s."
+msgstr ""
+
+#: Admin/Shortcode_Usage.php:245
+msgid "Failed to replace shortcodes due to an error. Please open a support ticket."
+msgstr ""
+
+#: Admin/Shortcode_Usage.php:249
+msgid ""
+"0 replacements made. If this is not what you were expecting please open a "
+"support ticket."
+msgstr ""
+
+#: Admin/Shortcode_Usage.php:253
+msgid "%d post updated with the shortcode replacement."
+msgid_plural "%d posts updated with the shortcode replacement."
+msgstr[0] ""
+msgstr[1] ""
+
+#: Admin/Wizard/Flickr.php:26 Admin/Wizard/Google_Photos.php:25
+#: Admin/Wizard/SmugMug.php:25 Admin/Wizard/Zenfolio.php:27
+msgid "Same as Main image size"
+msgstr ""
+
+#: Admin/Wizard/Flickr.php:48
+msgid "Site MP4"
+msgstr ""
+
+#: Admin/Wizard/Flickr.php:49
+msgid "Mobile MP4"
+msgstr ""
+
+#: Admin/Wizard/Flickr.php:50
+msgid "HD MP4"
+msgstr ""
+
+#: Admin/Wizard/Flickr.php:51
+msgid "Video Original"
+msgstr ""
+
+#: Admin/Wizard/Flickr.php:70 Admin/Wizard/Google_Photos.php:79
+#: Admin/Wizard/Instagram.php:23 Admin/Wizard/SmugMug.php:79
+#: Admin/Wizard/WP.php:28 Admin/Wizard/Zenfolio.php:65
+msgid "Choose Type of Gallery"
+msgstr ""
+
+#: Admin/Wizard/Flickr.php:77 Admin/Wizard/Flickr.php:227
+#: Admin/Wizard/Flickr.php:249 Admin/Wizard/Flickr.php:282
+#: Admin/Wizard/Google_Photos.php:82 Admin/Wizard/Google_Photos.php:146
+#: Admin/Wizard/Instagram.php:26 Admin/Wizard/SmugMug.php:86
+#: Admin/Wizard/SmugMug.php:198 Admin/Wizard/WP.php:31
+#: Admin/Wizard/Zenfolio.php:72 Admin/Wizard/Zenfolio.php:179
+#: Admin/Wizard/Zenfolio.php:213 Admin/Wizard/Zenfolio.php:247
+msgid "What do you want to show?"
+msgstr ""
+
+#: Admin/Wizard/Flickr.php:81
+msgid "A Single Photo"
+msgstr ""
+
+#: Admin/Wizard/Flickr.php:82 Admin/Wizard/Google_Photos.php:86
+#: Admin/Wizard/Instagram.php:32 Admin/Wizard/Zenfolio.php:77
+msgid "Multiple Photos"
+msgstr ""
+
+#: Admin/Wizard/Flickr.php:83
+msgid "Photos from an Album / Photoset"
+msgstr ""
+
+#: Admin/Wizard/Flickr.php:84
+msgid "Photos from a Gallery"
+msgstr ""
+
+#: Admin/Wizard/Flickr.php:85 Admin/Wizard/Google_Photos.php:88
+#: Admin/Wizard/SmugMug.php:93
+msgid "Multiple Albums"
+msgstr ""
+
+#: Admin/Wizard/Flickr.php:86 Admin/Wizard/Zenfolio.php:80
+msgid "Multiple Galleries"
+msgstr ""
+
+#: Admin/Wizard/Flickr.php:87
+msgid "Albums from a single collection"
+msgstr ""
+
+#: Admin/Wizard/Flickr.php:88
+msgid "Multiple collections"
+msgstr ""
+
+#: Admin/Wizard/Flickr.php:93 Admin/Wizard/SmugMug.php:100
+#: Admin/Wizard/Zenfolio.php:89
+msgid "For whom?"
+msgstr ""
+
+#: Admin/Wizard/Flickr.php:96 Admin/Wizard/SmugMug.php:103
+#: Admin/Wizard/Zenfolio.php:92
+msgid "Current user (Defined under %s)"
+msgstr ""
+
+#: Admin/Wizard/Flickr.php:97 Admin/Wizard/SmugMug.php:104
+#: Admin/Wizard/Zenfolio.php:93
+msgid "Another user"
+msgstr ""
+
+#: Admin/Wizard/Flickr.php:99 Admin/Wizard/Zenfolio.php:94
+msgid "All users"
+msgstr ""
+
+#: Admin/Wizard/Flickr.php:108 Admin/Wizard/SmugMug.php:109
+#: Admin/Wizard/Zenfolio.php:104
+msgid "User name, e.g. %s"
+msgstr ""
+
+#: Admin/Wizard/Flickr.php:115
+msgid "Group name, e.g. %s"
+msgstr ""
+
+#: Admin/Wizard/Flickr.php:129 Admin/Wizard/Google_Photos.php:98
+#: Admin/Wizard/Instagram.php:42 Admin/Wizard/SmugMug.php:123
+#: Admin/Wizard/Zenfolio.php:118
+msgid "Build your gallery"
+msgstr ""
+
+#: Admin/Wizard/Flickr.php:131 Admin/Wizard/Instagram.php:44
+#: Admin/Wizard/Zenfolio.php:120
+msgid "Pick a photo"
+msgstr ""
+
+#: Admin/Wizard/Flickr.php:132 Admin/Wizard/Instagram.php:45
+#: Admin/Wizard/Zenfolio.php:121
+msgid "From the list below pick the single photo you wish to display."
+msgstr ""
+
+#: Admin/Wizard/Flickr.php:142 Admin/Wizard/Google_Photos.php:100
+#: Admin/Wizard/Instagram.php:76
+msgid "All your photos"
+msgstr ""
+
+#: Admin/Wizard/Flickr.php:143
+msgid "You can show all your photos, or apply tags to show some of them."
+msgstr ""
+
+#: Admin/Wizard/Flickr.php:176 Admin/Wizard/Flickr.php:201
+msgid ""
+"Applicable only if Flickr private photos are turned on (%1$s) and Back-end "
+"authentication is off (%2$s)"
+msgstr ""
+
+#: Admin/Wizard/Flickr.php:187 Admin/Wizard/Google_Photos.php:131
+#: Admin/Wizard/SmugMug.php:125
+msgid "Pick your album"
+msgstr ""
+
+#: Admin/Wizard/Flickr.php:188 Admin/Wizard/Google_Photos.php:132
+#: Admin/Wizard/SmugMug.php:126
+msgid ""
+"From the list below pick the album whose photos you wish to display. Photos "
+"from that album will show up as thumbnails."
+msgstr ""
+
+#: Admin/Wizard/Flickr.php:212 Admin/Wizard/Zenfolio.php:153
+msgid "Pick your gallery"
+msgstr ""
+
+#: Admin/Wizard/Flickr.php:213 Admin/Wizard/Zenfolio.php:154
+msgid ""
+"From the list below pick the gallery whose photos you wish to display. "
+"Photos from that gallery will show up as thumbnails."
+msgstr ""
+
+#: Admin/Wizard/Flickr.php:223
+msgid "Pick your albums / photosets"
+msgstr ""
+
+#: Admin/Wizard/Flickr.php:224
+msgid ""
+"From the list below pick the albums / photosets you wish to display. Each "
+"album will show up as a single thumbnail."
+msgstr ""
+
+#: Admin/Wizard/Flickr.php:230 Admin/Wizard/Google_Photos.php:149
+#: Admin/Wizard/SmugMug.php:201
+msgid "Automatic all (will automatically add new albums)"
+msgstr ""
+
+#: Admin/Wizard/Flickr.php:231
+msgid "Selected albums / photosets"
+msgstr ""
+
+#: Admin/Wizard/Flickr.php:232
+msgid "All except selected albums / photosets"
+msgstr ""
+
+#: Admin/Wizard/Flickr.php:234 Admin/Wizard/Flickr.php:257
+#: Admin/Wizard/Flickr.php:290 Admin/Wizard/Google_Photos.php:153
+#: Admin/Wizard/SmugMug.php:205 Admin/Wizard/Zenfolio.php:187
+#: Admin/Wizard/Zenfolio.php:220 Admin/Wizard/Zenfolio.php:254
+msgid "If you pick \"Automatic all\" your selections below will be ignored."
+msgstr ""
+
+#: Admin/Wizard/Flickr.php:245 Admin/Wizard/Zenfolio.php:175
+msgid "Pick your galleries"
+msgstr ""
+
+#: Admin/Wizard/Flickr.php:246
+msgid ""
+"From the list below pick the galleries you wish to display. Each album will "
+"show up as a single thumbnail."
+msgstr ""
+
+#: Admin/Wizard/Flickr.php:252 Admin/Wizard/Zenfolio.php:182
+msgid "Automatic all (will automatically add new galleries)"
+msgstr ""
+
+#: Admin/Wizard/Flickr.php:253 Admin/Wizard/Zenfolio.php:183
+msgid "Selected galleries"
+msgstr ""
+
+#: Admin/Wizard/Flickr.php:254 Admin/Wizard/Zenfolio.php:184
+msgid "All except selected galleries"
+msgstr ""
+
+#: Admin/Wizard/Flickr.php:267 Admin/Wizard/Zenfolio.php:164
+msgid "Pick your collection"
+msgstr ""
+
+#: Admin/Wizard/Flickr.php:268
+msgid ""
+"From the list below pick the collection you wish to display. The albums "
+"within the collections will show up as single thumbnails."
+msgstr ""
+
+#: Admin/Wizard/Flickr.php:278 Admin/Wizard/Zenfolio.php:209
+msgid "Pick your collections"
+msgstr ""
+
+#: Admin/Wizard/Flickr.php:279
+msgid ""
+"From the list below pick the collections you wish to display. The albums "
+"within the collections will show up as single thumbnails."
+msgstr ""
+
+#: Admin/Wizard/Flickr.php:285 Admin/Wizard/Zenfolio.php:216
+msgid "Automatic all (will automatically add new collections)"
+msgstr ""
+
+#: Admin/Wizard/Flickr.php:286 Admin/Wizard/Zenfolio.php:217
+msgid "Selected collections"
+msgstr ""
+
+#: Admin/Wizard/Flickr.php:287 Admin/Wizard/Zenfolio.php:218
+msgid "All except selected collections"
+msgstr ""
+
+#: Admin/Wizard/Flickr.php:333 Admin/Wizard/Google_Photos.php:195
+#: Admin/Wizard/SmugMug.php:257 Admin/Wizard/Zenfolio.php:318
+msgid "Photo titles and captions"
+msgstr ""
+
+#: Admin/Wizard/Flickr.php:340 Admin/Wizard/Flickr.php:370
+#: Admin/Wizard/SmugMug.php:290
+msgid "Show Header"
+msgstr ""
+
+#: Admin/Wizard/Flickr.php:344 Admin/Wizard/Flickr.php:374
+#: Admin/Wizard/SmugMug.php:294 Admin/Wizard/Zenfolio.php:370
+msgid "No header"
+msgstr ""
+
+#: Admin/Wizard/Flickr.php:345 Admin/Wizard/Flickr.php:375
+#: Admin/Wizard/SmugMug.php:295 Admin/Wizard/Zenfolio.php:371
+msgid "Title only"
+msgstr ""
+
+#: Admin/Wizard/Flickr.php:346 Admin/Wizard/Flickr.php:376
+#: Admin/Wizard/SmugMug.php:296
+msgid "Thumbnail only"
+msgstr ""
+
+#: Admin/Wizard/Flickr.php:347 Admin/Wizard/Flickr.php:377
+#: Admin/Wizard/SmugMug.php:297 Admin/Wizard/Zenfolio.php:372
+msgid "Counts only"
+msgstr ""
+
+#: Admin/Wizard/Flickr.php:348 Admin/Wizard/Flickr.php:378
+#: Admin/Wizard/SmugMug.php:298 Admin/Wizard/Zenfolio.php:373
+msgid "Title and counts"
+msgstr ""
+
+#: Admin/Wizard/Flickr.php:349 Admin/Wizard/Flickr.php:379
+#: Admin/Wizard/SmugMug.php:299
+msgid "Thumbnail and counts"
+msgstr ""
+
+#: Admin/Wizard/Flickr.php:350 Admin/Wizard/Flickr.php:380
+#: Admin/Wizard/SmugMug.php:300
+msgid "Thumbnail and title"
+msgstr ""
+
+#: Admin/Wizard/Flickr.php:351 Admin/Wizard/Flickr.php:381
+#: Admin/Wizard/SmugMug.php:301
+msgid "Thumbnail, title and counts"
+msgstr ""
+
+#: Admin/Wizard/Flickr.php:393 Admin/Wizard/SmugMug.php:338
+#: Admin/Wizard/Zenfolio.php:385
+msgid "Main video size"
+msgstr ""
+
+#: Admin/Wizard/Flickr.php:420 Admin/Wizard/Google_Photos.php:240
+#: Admin/Wizard/SmugMug.php:369 Admin/Wizard/WP.php:84
+#: Admin/Wizard/Zenfolio.php:433
+msgid "Tile size"
+msgstr ""
+
+#: Admin/Wizard/Flickr.php:431 Admin/Wizard/Zenfolio.php:445
+msgid "Incompatible selections:"
+msgstr ""
+
+#: Admin/Wizard/Flickr.php:441 Admin/Wizard/SmugMug.php:384
+#: Admin/Wizard/Zenfolio.php:458
+msgid ""
+"Default user not defined under %1$s. %2$sSelect \"Another user\" and put in "
+"your user id."
+msgstr ""
+
+#: Admin/Wizard/Flickr.php:561 Admin/Wizard/Flickr.php:576 Modules/Core.php:215
+msgid "%s photo"
+msgid_plural "%s photos"
+msgstr[0] ""
+msgstr[1] ""
+
+#: Admin/Wizard/Flickr.php:562 Admin/Wizard/Flickr.php:577 Modules/Core.php:218
+msgid "%s video"
+msgid_plural "%s videos"
+msgstr[0] ""
+msgstr[1] ""
+
+#: Admin/Wizard/Flickr.php:607
+msgid "%s album"
+msgid_plural "%s albums"
+msgstr[0] ""
+msgstr[1] ""
+
+#: Admin/Wizard/Google_Photos.php:87 Admin/Wizard/SmugMug.php:90
+msgid "Photos from an Album"
+msgstr ""
+
+#: Admin/Wizard/Google_Photos.php:101
+msgid "You can show all your photos, or apply filters to show some of them."
+msgstr ""
+
+#: Admin/Wizard/Google_Photos.php:110
+msgid "Date Range Filters"
+msgstr ""
+
+#: Admin/Wizard/Google_Photos.php:118
+msgid ""
+"Comma-separated. Pick from: %s. Filters will be applied on the front-end, "
+"not on the display below. "
+msgstr ""
+
+#: Admin/Wizard/Google_Photos.php:142 Admin/Wizard/SmugMug.php:194
+msgid "Pick your albums"
+msgstr ""
+
+#: Admin/Wizard/Google_Photos.php:143 Admin/Wizard/SmugMug.php:195
+msgid ""
+"From the list below pick the albums you wish to display. Each album will "
+"show up as a single thumbnail."
+msgstr ""
+
+#: Admin/Wizard/Google_Photos.php:150 Admin/Wizard/SmugMug.php:202
+msgid "Selected albums"
+msgstr ""
+
+#: Admin/Wizard/Google_Photos.php:151 Admin/Wizard/SmugMug.php:203
+msgid "All except selected albums"
+msgstr ""
+
+#: Admin/Wizard/Google_Photos.php:157
+msgid "What type of album?"
+msgstr ""
+
+#: Admin/Wizard/Google_Photos.php:161
+msgid "Show both shared and not shared albums"
+msgstr ""
+
+#: Admin/Wizard/Google_Photos.php:199 Core/Utilities.php:34
+#: Options/Google.php:75
+msgid "No title / caption / description"
+msgstr ""
+
+#: Admin/Wizard/Google_Photos.php:200 Core/Utilities.php:35
+#: Options/Google.php:76
+msgid "Always use the photo title, even if blank"
+msgstr ""
+
+#: Admin/Wizard/Google_Photos.php:221
+msgid "Numeric values between 1 and 256, both inclusive."
+msgstr ""
+
+#: Admin/Wizard/Google_Photos.php:290 Admin/Wizard/SmugMug.php:478
+#: Admin/Wizard/Zenfolio.php:606
+msgid "%s media item"
+msgid_plural "%s media items"
+msgstr[0] ""
+msgstr[1] ""
+
+#: Admin/Wizard/Instagram.php:31
+msgid "Photos in a Post"
+msgstr ""
+
+#: Admin/Wizard/Instagram.php:48
+msgid "How do you want to display your photo?"
+msgstr ""
+
+#: Admin/Wizard/Instagram.php:52
+msgid "Show as an \"Instagram embed\""
+msgstr ""
+
+#: Admin/Wizard/Instagram.php:53
+msgid "Show similar to other photos, without embedding Instagram"
+msgstr ""
+
+#: Admin/Wizard/Instagram.php:65
+msgid "Pick a post (a.k.a. Carousel)"
+msgstr ""
+
+#: Admin/Wizard/Instagram.php:66
+msgid "From the list below pick the post whose photos you wish to display."
+msgstr ""
+
+#: Admin/Wizard/Instagram.php:77
+msgid ""
+"You can only show all your photos without filtering. In the following only "
+"the latest 25 photos are displayed. You can change this in subsequent "
+"screens."
+msgstr ""
+
+#: Admin/Wizard/Instagram.php:80
+msgid "How do you want to show photos in a carousel?"
+msgstr ""
+
+#: Admin/Wizard/Instagram.php:84
+msgid "Show first photo"
+msgstr ""
+
+#: Admin/Wizard/Instagram.php:85
+msgid "Show all photos"
+msgstr ""
+
+#: Admin/Wizard/Screen_Fields.php:31
+msgid "Square Grid"
+msgstr ""
+
+#: Admin/Wizard/Screen_Fields.php:32
+msgid "Circular Icon Grid"
+msgstr ""
+
+#: Admin/Wizard/Screen_Fields.php:33
+msgid "Justified Grid"
+msgstr ""
+
+#: Admin/Wizard/Screen_Fields.php:34
+msgid "Masonry"
+msgstr ""
+
+#: Admin/Wizard/Screen_Fields.php:35
+msgid "Mosaic"
+msgstr ""
+
+#: Admin/Wizard/Screen_Fields.php:36
+msgid "Slideshow"
+msgstr ""
+
+#: Admin/Wizard/Screen_Fields.php:74 Admin/Wizard/Screen_Fields.php:91
+#: Admin/Wizard/Screen_Fields.php:117
+msgid "Numeric values only. Leave blank for default."
+msgstr ""
+
+#: Admin/Wizard/Screen_Fields.php:82 Admin/Wizard/Screen_Fields.php:135
+#: Admin/Wizard/Screen_Fields.php:142
+msgid "\"Show Gallery\" button text"
+msgstr ""
+
+#: Admin/Wizard/Screen_Fields.php:84 Admin/Wizard/Screen_Fields.php:137
+#: Admin/Wizard/Screen_Fields.php:144
+msgid ""
+"Will show a \"Show Gallery\" button with the specified text. This will show "
+"a button instead of the gallery when the page loads, saving time on the "
+"load. Users can click on this button to see the gallery. Leave blank to "
+"show no button"
+msgstr ""
+
+#: Admin/Wizard/Screen_Fields.php:89
+msgid "Number of albums to show"
+msgstr ""
+
+#: Admin/Wizard/Screen_Fields.php:96
+msgid ""
+"Will show a \"More\" button with the specified text if the number of albums "
+"is higher than the above entry. Leave blank to show no button"
+msgstr ""
+
+#: Admin/Wizard/Screen_Fields.php:103
+msgid ""
+"Show photos in an overlaid popup panel upon clicking on an album / photoset "
+"/ gallery"
+msgstr ""
+
+#: Admin/Wizard/Screen_Fields.php:107 Options/Generic.php:370
+#: Options/Generic.php:411
+msgid "No overlay - start showing photos in a lightbox"
+msgstr ""
+
+#: Admin/Wizard/Screen_Fields.php:108
+msgid "Yes - show photos in an overlay first"
+msgstr ""
+
+#: Admin/Wizard/Screen_Fields.php:109 Options/Generic.php:372
+#: Options/Generic.php:413
+msgid "Page - Show photos in a separate page"
+msgstr ""
+
+#: Admin/Wizard/Screen_Fields.php:112
+msgid ""
+"Setting this to \"No\" would directly start up a lightbox with photos. "
+"Setting this to \"Yes\" would show an overlaid panel that has the photos. "
+"Setting this to \"Page\" will take you to a separate page defined under "
+"<em>Photonic &rarr; Settings &rarr; Generic Options &rarr; Photo "
+"Template</em>. See %1$sdocumentation%2$s."
+msgstr ""
+
+#: Admin/Wizard/Screen_Fields.php:115
+msgid "Number of photos to show in overlaid popup / separate gallery page"
+msgstr ""
+
+#: Admin/Wizard/Screen_Fields.php:121
+msgid "\"More\" button text in overlaid popup / separate gallery page"
+msgstr ""
+
+#: Admin/Wizard/Screen_Fields.php:123
+msgid ""
+"Will show a \"More\" button with the specified text if the number of photos "
+"in the overlaid popup is higher than the above entry. Leave blank to show "
+"no button"
+msgstr ""
+
+#: Admin/Wizard/Screen_Fields.php:127
+msgid "Layout of photos in separate gallery page"
+msgstr ""
+
+#: Admin/Wizard/Screen_Fields.php:129
+msgid "Same as main gallery page"
+msgstr ""
+
+#: Admin/Wizard/Screen_Flow.php:16
+msgid "You are not authorized to use this capability."
+msgstr ""
+
+#: Admin/Wizard/Screen_Flow.php:57
+msgid "Choose Gallery Source"
+msgstr ""
+
+#: Admin/Wizard/Screen_Flow.php:85
+msgid ""
+"%1$sHint:%2$s To edit an existing shortcode select the shortcode before "
+"clicking on the \"Add / Edit Photonic Gallery\" button."
+msgstr ""
+
+#: Admin/Wizard/SmugMug.php:21
+msgid "Custom"
+msgstr ""
+
+#: Admin/Wizard/SmugMug.php:35 Admin/Wizard/SmugMug.php:49
+msgid "X4Large (not always available)"
+msgstr ""
+
+#: Admin/Wizard/SmugMug.php:36 Admin/Wizard/SmugMug.php:50
+msgid "X5Large (not always available)"
+msgstr ""
+
+#: Admin/Wizard/SmugMug.php:54
+msgid "110px along longest side"
+msgstr ""
+
+#: Admin/Wizard/SmugMug.php:55
+msgid "200px along longest side"
+msgstr ""
+
+#: Admin/Wizard/SmugMug.php:56
+msgid "320px along longest side"
+msgstr ""
+
+#: Admin/Wizard/SmugMug.php:57
+msgid "640px along longest side"
+msgstr ""
+
+#: Admin/Wizard/SmugMug.php:58
+msgid "1280px along longest side"
+msgstr ""
+
+#: Admin/Wizard/SmugMug.php:59
+msgid "1920px along longest side"
+msgstr ""
+
+#: Admin/Wizard/SmugMug.php:91
+msgid "Photos from a Folder"
+msgstr ""
+
+#: Admin/Wizard/SmugMug.php:92
+msgid "Photos from a User"
+msgstr ""
+
+#: Admin/Wizard/SmugMug.php:94
+msgid "Albums in a Folder"
+msgstr ""
+
+#: Admin/Wizard/SmugMug.php:95 Admin/Wizard/SmugMug.php:227
+msgid "User Tree"
+msgstr ""
+
+#: Admin/Wizard/SmugMug.php:129 Admin/Wizard/SmugMug.php:152
+#: Admin/Wizard/SmugMug.php:175
+msgid "Only show photos with this text"
+msgstr ""
+
+#: Admin/Wizard/SmugMug.php:132 Admin/Wizard/SmugMug.php:138
+#: Admin/Wizard/SmugMug.php:155
+msgid ""
+"Comma-separated list of values. Filters will be applied on the front-end, "
+"not on the display below"
+msgstr ""
+
+#: Admin/Wizard/SmugMug.php:135 Admin/Wizard/SmugMug.php:158
+#: Admin/Wizard/SmugMug.php:181
+msgid "Only show photos with these keywords"
+msgstr ""
+
+#: Admin/Wizard/SmugMug.php:148 Admin/Wizard/SmugMug.php:216
+msgid "Pick your folder"
+msgstr ""
+
+#: Admin/Wizard/SmugMug.php:149
+msgid ""
+"From the list below pick the folder whose photos you wish to display. "
+"Photos from that folder will show up as thumbnails."
+msgstr ""
+
+#: Admin/Wizard/SmugMug.php:161
+msgid ""
+"Comma-separated list of values. Filters will be applied on the front-end, "
+"not on the display below."
+msgstr ""
+
+#: Admin/Wizard/SmugMug.php:171
+msgid "Photos for a User"
+msgstr ""
+
+#: Admin/Wizard/SmugMug.php:172
+msgid ""
+"The following lists the top-level folders and albums for the selected user. "
+"All photos from these folders will show up as thumbnails."
+msgstr ""
+
+#: Admin/Wizard/SmugMug.php:178 Admin/Wizard/SmugMug.php:184
+msgid "Comma-separated list of values"
+msgstr ""
+
+#: Admin/Wizard/SmugMug.php:217
+msgid ""
+"From the list below pick the folder you wish to display. The albums within "
+"the folder will show up as single thumbnails."
+msgstr ""
+
+#: Admin/Wizard/SmugMug.php:228
+msgid ""
+"The following user tree will be displayed on your site. Only top level "
+"folders and albums are shown here. The albums within the folders will show "
+"up as single thumbnails and can be clicked to show the images within."
+msgstr ""
+
+#: Admin/Wizard/SmugMug.php:264 Admin/Wizard/Zenfolio.php:335
+msgid "Password for password-protected album"
+msgstr ""
+
+#: Admin/Wizard/SmugMug.php:267 Admin/Wizard/Zenfolio.php:338
+msgid ""
+"You are trying to display photos from a password-protected album. The "
+"password is mandatory for such an album."
+msgstr ""
+
+#: Admin/Wizard/SmugMug.php:271
+msgid "Sort photos by"
+msgstr ""
+
+#: Admin/Wizard/SmugMug.php:275
+msgid "Date Taken"
+msgstr ""
+
+#: Admin/Wizard/SmugMug.php:276
+msgid "Date Uploaded"
+msgstr ""
+
+#: Admin/Wizard/SmugMug.php:281
+msgid "Sort order"
+msgstr ""
+
+#: Admin/Wizard/SmugMug.php:285
+msgid "Ascending"
+msgstr ""
+
+#: Admin/Wizard/SmugMug.php:286
+msgid "Descending"
+msgstr ""
+
+#: Admin/Wizard/SmugMug.php:307 Admin/Wizard/SmugMug.php:325
+msgid "Site Password for password-protected sites"
+msgstr ""
+
+#: Admin/Wizard/SmugMug.php:309 Admin/Wizard/SmugMug.php:327
+msgid ""
+"If you SmugMug site is password-protected you will need to provide the "
+"password to be able to show your photos."
+msgstr ""
+
+#: Admin/Wizard/SmugMug.php:358
+msgid "Size of custom thumbnail"
+msgstr ""
+
+#: Admin/Wizard/SmugMug.php:360
+msgid ""
+"E.g. 300x300 for an image that is 300px on the longest side and 300x300! "
+"(with the \"!\") for a square image"
+msgstr ""
+
+#: Admin/Wizard/Source.php:9
+msgid "Default settings can be configured under: %s"
+msgstr ""
+
+#: Admin/Wizard/Source.php:10 Core/Utilities.php:33 Core/Utilities.php:71
+msgid "Default from settings"
+msgstr ""
+
+#: Admin/Wizard/Source.php:13
+msgid "Number of columns in output"
+msgstr ""
+
+#: Admin/Wizard/Source.php:17
+msgid "Automatic (Photonic calculates the columns)"
+msgstr ""
+
+#: Admin/Wizard/Source.php:41 Admin/Wizard/Wizard.php:28
+msgid "Not found."
+msgstr ""
+
+#: Admin/Wizard/Source.php:123
+msgid "Normal title display using the HTML \"title\" attribute"
+msgstr ""
+
+#: Admin/Wizard/Source.php:124
+msgid "Below the thumbnail"
+msgstr ""
+
+#: Admin/Wizard/Source.php:125
+msgid "Using a JavaScript tooltip"
+msgstr ""
+
+#: Admin/Wizard/Source.php:126
+msgid "Slide up from bottom upon hover"
+msgstr ""
+
+#: Admin/Wizard/Source.php:127
+msgid "Cover the lower portion always"
+msgstr ""
+
+#: Admin/Wizard/Source.php:128
+msgid "No title"
+msgstr ""
+
+#: Admin/Wizard/Source.php:132
+msgid "How do you want the title?"
+msgstr ""
+
+#: Admin/Wizard/Source.php:143
+msgid "Slideshow display style"
+msgstr ""
+
+#: Admin/Wizard/Source.php:146
+msgid "Thumbnail strip or buttons below slideshow"
+msgstr ""
+
+#: Admin/Wizard/Source.php:147 Core/Utilities.php:58
+msgid "Thumbnail strip above slideshow"
+msgstr ""
+
+#: Admin/Wizard/Source.php:148
+msgid "Thumbnail strip to the right of slideshow"
+msgstr ""
+
+#: Admin/Wizard/Source.php:149
+msgid "No thumbnails or buttons for the slideshow"
+msgstr ""
+
+#: Admin/Wizard/Source.php:154
+msgid "Thumbnails or buttons for the strip?"
+msgstr ""
+
+#: Admin/Wizard/Source.php:157
+msgid "Thumbnails"
+msgstr ""
+
+#: Admin/Wizard/Source.php:158
+msgid "Buttons"
+msgstr ""
+
+#: Admin/Wizard/Source.php:160
+msgid "If you choose \"Buttons\" those are only shown below the slideshow."
+msgstr ""
+
+#: Admin/Wizard/Source.php:179
+msgid "Determines if a photo in a slideshow should fade in or slide in."
+msgstr ""
+
+#: Admin/Wizard/Source.php:185
+msgid "Please enter numbers only"
+msgstr ""
+
+#: Admin/Wizard/Source.php:191
+msgid "How fast do you want the fade or slide effect to happen?"
+msgstr ""
+
+#: Admin/Wizard/Source.php:194
+msgid "Pause upon hover?"
+msgstr ""
+
+#: Admin/Wizard/Source.php:197
+msgid "No"
+msgstr ""
+
+#: Admin/Wizard/Source.php:198
+msgid "Yes"
+msgstr ""
+
+#: Admin/Wizard/Source.php:200
+msgid "Should the slideshow pause when you hover over it?"
+msgstr ""
+
+#: Admin/Wizard/Source.php:203
+msgid "Number of columns in slideshow"
+msgstr ""
+
+#: Admin/Wizard/Source.php:218
+msgid "Pick > 1 for a carousel"
+msgstr ""
+
+#: Admin/Wizard/WP.php:35
+msgid "Gallery attached to the current post"
+msgstr ""
+
+#: Admin/Wizard/WP.php:36
+msgid "Photos from Media Library"
+msgstr ""
+
+#: Admin/Wizard/WP.php:58
+msgid "Numeric values only. Shows all photos by default."
+msgstr ""
+
+#: Admin/Wizard/Wizard.php:27
+msgid "No response from server."
+msgstr ""
+
+#: Admin/Wizard/Wizard.php:29
+msgid ""
+"No data was returned for the user you provided. Please verify that the user "
+"has the content you are looking for."
+msgstr ""
+
+#: Admin/Wizard/Wizard.php:30
+msgid "Incorrect value passed for \"%1$s\": %2$s"
+msgstr ""
+
+#: Admin/Wizard/Wizard.php:31
+msgid "Please set up your %1$s and secret under %2$s"
+msgstr ""
+
+#: Admin/Wizard/Wizard.php:32
+msgid "Please set up your %1$s Authentication from %2$s"
+msgstr ""
+
+#: Admin/Wizard/Wizard.php:34
+msgid "Year"
+msgstr ""
+
+#: Admin/Wizard/Wizard.php:34
+msgid "Month"
+msgstr ""
+
+#: Admin/Wizard/Wizard.php:35
+msgid "Year (0 - 9999)"
+msgstr ""
+
+#: Admin/Wizard/Wizard.php:35
+msgid "Month (0 - 12)"
+msgstr ""
+
+#: Admin/Wizard/Wizard.php:35
+msgid "Date (0 - 31)"
+msgstr ""
+
+#: Admin/Wizard/Wizard.php:168
+msgid "Invalid screen value: %s"
+msgstr ""
+
+#: Admin/Wizard/Wizard.php:171
+msgid "Invalid photo provider: %s"
+msgstr ""
+
+#: Admin/Wizard/Wizard.php:187
+msgid ""
+"Google has deprecated the Picasa API with effect from January 2019. Please "
+"consider using the Google Photos module."
+msgstr ""
+
+#: Admin/Wizard/Wizard.php:234
+msgid ""
+"While the \"For whom?\" setting may not be required for the shortcode to "
+"function in the front-end, it is required to edit this shortcode in this "
+"editor. Please specify a value."
+msgstr ""
+
+#: Admin/Wizard/Wizard.php:238
+msgid "Invalid display type: %s"
+msgstr ""
+
+#: Admin/Wizard/Wizard.php:270 Admin/Wizard/Wizard.php:274
+msgid "Please select what you want to show."
+msgstr ""
+
+#: Admin/Wizard/Wizard.php:296
+msgid "Invalid layout: %s"
+msgstr ""
+
+#: Admin/Wizard/Wizard.php:396
+msgid "Required"
+msgstr ""
+
+#: Admin/Wizard/Wizard.php:547
+msgid "Mark:"
+msgstr ""
+
+#: Admin/Wizard/Wizard.php:548
+msgid "%1$sAll%2$s"
+msgstr ""
+
+#: Admin/Wizard/Wizard.php:549
+msgid "%1$sNone%2$s"
+msgstr ""
+
+#: Admin/Wizard/Wizard.php:645
+msgid "Pick Your Layout"
+msgstr ""
+
+#: Admin/Wizard/Wizard.php:646
+msgid "You can configure the default settings from %s."
+msgstr ""
+
+#: Admin/Wizard/Wizard.php:677
+msgid "Configure Your Layout"
+msgstr ""
+
+#: Admin/Wizard/Wizard.php:824
+msgid "Your shortcode"
+msgstr ""
+
+#: Admin/Wizard/Wizard.php:833
+msgid ""
+"The above shortcode was generated based on your selections. You can either "
+"copy the above and paste it manually into your post, or click on the "
+"buttons below to insert it into or update your post"
+msgstr ""
+
+#: Admin/Wizard/Wizard.php:836
+msgid "Your Gallery"
+msgstr ""
+
+#: Admin/Wizard/Wizard.php:837
+msgid ""
+"Based on your selections a gallery with the following attributes will be "
+"generated. Please click on the buttons below to insert it into or update "
+"your post:"
+msgstr ""
+
+#: Admin/Wizard/Wizard.php:844
+msgid ""
+"The following is the corresponding shortcode for this block. If for some "
+"reason you are unable to create a Photonic block you can paste this into a "
+"Shortcode block:"
+msgstr ""
+
+#: Admin/Wizard/Wizard.php:1033 Modules/Flickr.php:1177
+#: Modules/Google_Photos.php:766
+msgid "No data returned. Error code %s"
+msgstr ""
+
+#: Admin/Wizard/Wizard.php:1038 Modules/Flickr.php:1182
+#: Modules/Google_Photos.php:771
+msgid "No data returned. Empty response, or empty error code."
+msgstr ""
+
+#: Admin/Wizard/Zenfolio.php:44
+msgid "360p resolution (MP4)"
+msgstr ""
+
+#: Admin/Wizard/Zenfolio.php:45
+msgid "480p resolution (MP4)"
+msgstr ""
+
+#: Admin/Wizard/Zenfolio.php:46
+msgid "720p resolution (MP4)"
+msgstr ""
+
+#: Admin/Wizard/Zenfolio.php:47
+msgid "1080p resolution (MP4)"
+msgstr ""
+
+#: Admin/Wizard/Zenfolio.php:78
+msgid "Photos from a Gallery or Collection"
+msgstr ""
+
+#: Admin/Wizard/Zenfolio.php:81
+msgid "Multiple Collections"
+msgstr ""
+
+#: Admin/Wizard/Zenfolio.php:82
+msgid "Multiple Galleries and Collections"
+msgstr ""
+
+#: Admin/Wizard/Zenfolio.php:83
+msgid "Single Group"
+msgstr ""
+
+#: Admin/Wizard/Zenfolio.php:131
+msgid "Photos from all users"
+msgstr ""
+
+#: Admin/Wizard/Zenfolio.php:132
+msgid ""
+"You can show photos from all users, and apply text or category filters to "
+"show some of them."
+msgstr ""
+
+#: Admin/Wizard/Zenfolio.php:140 Admin/Wizard/Zenfolio.php:196
+#: Admin/Wizard/Zenfolio.php:230 Admin/Wizard/Zenfolio.php:264
+msgid "Category"
+msgstr ""
+
+#: Admin/Wizard/Zenfolio.php:165
+msgid ""
+"From the list below pick the collection whose photos you wish to display. "
+"Photos from that collection will show up as thumbnails."
+msgstr ""
+
+#: Admin/Wizard/Zenfolio.php:176
+msgid ""
+"From the list below pick the galleries you wish to display. Each album will "
+"show up as a single thumbnail. Note that text and category filters are not "
+"applied here but will be applied on the front-end."
+msgstr ""
+
+#: Admin/Wizard/Zenfolio.php:210
+msgid ""
+"From the list below pick the collections you wish to display. Each "
+"collection will show up as a single thumbnail. Note that text and category "
+"filters are not applied here but will be applied on the front-end."
+msgstr ""
+
+#: Admin/Wizard/Zenfolio.php:243
+msgid "Pick your galleries and collections"
+msgstr ""
+
+#: Admin/Wizard/Zenfolio.php:244
+msgid ""
+"From the list below pick the galleries and collections you wish to display. "
+"Each gallery and collection will show up as a single thumbnail. Note that "
+"text and category filters are not applied here but will be applied on the "
+"front-end."
+msgstr ""
+
+#: Admin/Wizard/Zenfolio.php:250
+msgid "Automatic all (will automatically add new galleries and collections)"
+msgstr ""
+
+#: Admin/Wizard/Zenfolio.php:251
+msgid "Selected galleries and collections"
+msgstr ""
+
+#: Admin/Wizard/Zenfolio.php:252
+msgid "All except selected galleries and collections"
+msgstr ""
+
+#: Admin/Wizard/Zenfolio.php:277
+msgid "Pick your group"
+msgstr ""
+
+#: Admin/Wizard/Zenfolio.php:278
+msgid ""
+"From the list below pick the group you wish to display. The galleries / "
+"collections within the group will show up as single thumbnails."
+msgstr ""
+
+#: Admin/Wizard/Zenfolio.php:288
+msgid "Your group hierarchy"
+msgstr ""
+
+#: Admin/Wizard/Zenfolio.php:289
+msgid ""
+"The following group hierarchy will be displayed on your site. Only top "
+"level groups and galleries / collections are shown here. The galleries / "
+"collections within the groups will show up as single thumbnails and can be "
+"clicked to show the images within."
+msgstr ""
+
+#: Admin/Wizard/Zenfolio.php:363
+msgid "See examples %1$shere%2$s."
+msgstr ""
+
+#: Admin/Wizard/Zenfolio.php:366
+msgid "Show Group Header"
+msgstr ""
+
+#: Core/Photonic.php:165
+msgid "Settings"
+msgstr ""
+
+#: Core/Photonic.php:168
+msgid "Switch to Gutenberg"
+msgstr ""
+
+#: Core/Photonic.php:539
+msgid "Please specify a value for %1%s. Accepted values are %2$s, %3$s, %4$s, %5$s"
+msgstr ""
+
+#: Core/Photonic.php:569
+msgid ""
+"Google has deprecated the Picasa API. Please consider switching over to "
+"Google Photos"
+msgstr ""
+
+#: Core/Photonic.php:574
+msgid "The API for 500px.com is no longer available for public use."
+msgstr ""
+
+#: Core/Photonic.php:1027 Layouts/Grid.php:367 Modules/Core.php:60
+msgid "This album is password-protected. Please provide a valid password."
+msgstr ""
+
+#: Core/Photonic.php:1028
+msgid "Incorrect password."
+msgstr ""
+
+#: Core/Photonic.php:1166
+msgid "See %1$shere%2$s for documentation."
+msgstr ""
+
+#: Core/Template.php:67
+msgid ""
+"You are trying to display a gallery, but no gallery was found corresponding "
+"to the input."
+msgstr ""
+
+#: Core/Template.php:72
+msgid "You are trying to display a gallery, but no input was provided."
+msgstr ""
+
+#: Core/Utilities.php:36
+msgid "Always use the photo description / caption, even if blank"
+msgstr ""
+
+#: Core/Utilities.php:37
+msgid "Use the photo description / caption. If blank use the title"
+msgstr ""
+
+#: Core/Utilities.php:38
+msgid "Use the photo title. If blank use the description / caption"
+msgstr ""
+
+#: Core/Utilities.php:57
+msgid "Thumbnail strip below slideshow"
+msgstr ""
+
+#: Core/Utilities.php:59
+msgid "Thumbnail strip to the right of the slideshow"
+msgstr ""
+
+#: Core/Utilities.php:60
+msgid "Slideshow without thumbnails"
+msgstr ""
+
+#: Core/Utilities.php:61
+msgid "Square thumbnail grid, lightbox"
+msgstr ""
+
+#: Core/Utilities.php:62
+msgid "Circular thumbnail grid, lightbox"
+msgstr ""
+
+#: Core/Utilities.php:63
+msgid "Random justified gallery, lightbox"
+msgstr ""
+
+#: Core/Utilities.php:64
+msgid "Masonry layout, lightbox"
+msgstr ""
+
+#: Core/Utilities.php:65
+msgid "Mosaic layout, lightbox"
+msgstr ""
+
+#: Core/Utilities.php:72
+msgid "Photos only"
+msgstr ""
+
+#: Core/Utilities.php:73
+msgid "Videos only"
+msgstr ""
+
+#: Core/Utilities.php:74
+msgid "Both photos and videos"
+msgstr ""
+
+#: Core/Utilities.php:104
+msgid "Original width"
+msgstr ""
+
+#: Core/Utilities.php:104
+msgid "Original height"
+msgstr ""
+
+#: Layouts/Grid.php:160
+msgid "Buy"
+msgstr ""
+
+#: Layouts/Grid.php:195 Layouts/Grid.php:208 Lightboxes/Featherlight.php:19
+#: Lightboxes/Featherlight.php:22
+msgid "Your browser does not support HTML5 videos."
+msgstr ""
+
+#: Layouts/Grid.php:353
+msgid "%s photos"
+msgstr ""
+
+#: Layouts/Grid.php:363
+msgid "Protected Content"
+msgstr ""
+
+#: Layouts/Grid.php:364
+msgid "Access"
+msgstr ""
+
+#: Layouts/Grid.php:369
+msgid "This album is protected. Please provide a valid authorization key."
+msgstr ""
+
+#: Layouts/Grid.php:372
+msgid "This album is protected. Please provide the short-link for it."
+msgstr ""
+
+#: Modules/Core.php:209
+msgid "%s group"
+msgid_plural "%s groups"
+msgstr[0] ""
+msgstr[1] ""
+
+#: Modules/Core.php:212
+msgid "%s set"
+msgid_plural "%s sets"
+msgstr[0] ""
+msgstr[1] ""
+
+#: Modules/Core.php:518
+msgid "There was an error connecting to %s. Please try again later."
+msgstr ""
+
+#: Modules/Flickr.php:117
+msgid "Flickr API Key not defined."
+msgstr ""
+
+#: Modules/Flickr.php:193
+msgid "User id or default user is required for displaying a single gallery"
+msgstr ""
+
+#: Modules/Flickr.php:1152
+msgid "Please pass the %1$s or %2$s attribute."
+msgstr ""
+
+#: Modules/Flickr.php:1166
+msgid "User id: %s"
+msgstr ""
+
+#: Modules/Flickr.php:1169
+msgid "Group id: %s"
+msgstr ""
+
+#: Modules/Flickr.php:1172
+msgid "No data returned."
+msgstr ""
+
+#: Modules/Google_Photos.php:45
+msgid ""
+"Dates must be entered in the format Y/M/D where Y is from 0 to 9999, M is "
+"from 0 to 12 and D is from 0 to 31. You entered %s."
+msgstr ""
+
+#: Modules/Google_Photos.php:94
+msgid "Google Photos Client ID not defined."
+msgstr ""
+
+#: Modules/Google_Photos.php:98
+msgid "Google Photos Client Secret not defined."
+msgstr ""
+
+#: Modules/Google_Photos.php:102
+msgid "Google Photos Refresh Token not defined. Please authenticate from %s."
+msgstr ""
+
+#: Modules/Google_Photos.php:106
+msgid "Google Photos Refresh Token invalid. Please authenticate from %s."
+msgstr ""
+
+#: Modules/Google_Photos.php:108
+msgid "Error encountered during authentication: %s"
+msgstr ""
+
+#: Modules/Google_Photos.php:115
+msgid "The %s parameter is mandatory for the shortcode."
+msgstr ""
+
+#: Modules/Google_Photos.php:481 Modules/Google_Photos.php:488
+msgid "Failed to get data. Error:"
+msgstr ""
+
+#: Modules/Instagram.php:89 Modules/Instagram.php:149
+msgid "Instagram Access Token not valid. Please reauthenticate."
+msgstr ""
+
+#: Modules/Instagram.php:119
+msgid "The %s parameter has to be defined."
+msgstr ""
+
+#: Modules/Instagram.php:122
+msgid "Malformed shortcode. Either %1$s or %2$s or %3$s has to be defined."
+msgstr ""
+
+#: Modules/Instagram.php:167
+msgid "More"
+msgstr ""
+
+#: Modules/Instagram.php:197 Modules/Instagram.php:203
+#: Modules/Instagram.php:222
+msgid "No data returned. Unknown error"
+msgstr ""
+
+#: Modules/Instagram.php:235 Modules/Instagram.php:246 Modules/Zenfolio.php:491
+#: Modules/Zenfolio.php:495
+msgid "Unknown error"
+msgstr ""
+
+#: Modules/SmugMug.php:68
+msgid "SmugMug API Key not defined."
+msgstr ""
+
+#: Modules/SmugMug.php:131
+msgid "The %1$s attribute is required for the %2$s and %3$s views."
+msgstr ""
+
+#: Modules/Zenfolio.php:142 Modules/Zenfolio.php:210
+msgid "Invalid %s parameter."
+msgstr ""
+
+#: Modules/Zenfolio.php:148
+msgid "The %1$s parameter is required if %2$s is not specified."
+msgstr ""
+
+#: Modules/Zenfolio.php:223
+msgid "Invalid %1$s parameter. Permissible values are %2$s or %3$s."
+msgstr ""
+
+#: Modules/Zenfolio.php:241
+msgid "The %1$s parameter is required if %2$s is specified."
+msgstr ""
+
+#: Modules/Zenfolio.php:246 Modules/Zenfolio.php:251
+msgid "The %1$s parameter is required if %2$s or %3$s is not specified."
+msgstr ""
+
+#: Modules/Zenfolio.php:267 Modules/Zenfolio.php:277
+msgid "The %s parameter is required."
+msgstr ""
+
+#: Modules/Zenfolio.php:488
+msgid "Zenfolio returned an error:"
+msgstr ""
+
+#: Modules/Zenfolio.php:510 Modules/Zenfolio.php:695
+msgid "Response is not an array"
+msgstr ""
+
+#: Modules/Zenfolio.php:797
+msgid "No galleries, collections or groups defined for this user"
+msgstr ""
+
+#: Modules/Zenfolio.php:1038
+msgid "Authentication failed."
+msgstr ""
+
+#: Modules/Zenfolio.php:1047
+msgid "Failed to get challenge."
+msgstr ""
+
+#: Modules/Zenfolio.php:1052
+msgid "Default user not defined. Please define one under %s"
+msgstr ""
+
+#: Options/Generic.php:371 Options/Generic.php:412
+msgid "Overlay - show photos in an overlay first"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Photonic Gallery & Lightbox for Flickr, SmugMug, Google Photos & Others"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://aquoid.com/plugins/photonic/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Extends the native gallery to support Flickr, SmugMug, Google Photos, "
+"Zenfolio and Instagram. JS libraries like Swipebox, Fancybox, PhotoSwipe, "
+"Magnific, Colorbox, PrettyPhoto, Image Lightbox, Featherlight, Lightcase "
+"and Lightgallery are supported. Photos are displayed in grids of square or "
+"circular thumbnails, or slideshows, or justified or masonry or random "
+"mosaic layouts. The plugin also extends all layout options to a regular WP "
+"gallery."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Sayontan Sinha"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://mynethome.net/"
+msgstr ""
